@@ -62,4 +62,6 @@ var _config = {
 2. 填写名称，只勾选 `public_repo` ,然后保存，GitHub 会生成一个可访问你公开项目的令牌 access_token，将它填入到配置文件 config.js 的 access_token 的值中，并取消注释。
 3. 打开 app.js ,取消大概在第 17 行和 88 行的 access_token 注释。
 
-> 参考教程：https://github.com/wuhaoworld/github-issues-blog
+<br />
+
+_参考教程：https://github.com/wuhaoworld/github-issues-blog_
