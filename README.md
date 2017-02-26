@@ -12,8 +12,10 @@ Demo： http://FatliTalk.com
 
 ## 一、部署方法(方案1)
 
-1. Fork 本项目，然后再新建一个用于存放博客内容（即 Issues）的 repo 。 （Fork 的项目是没有 Issues 的，所以得新建个仓库）
-2. 修改 gh-pages 分支下根目录的 config.js，填写好对应的博客名称，你自己的 GitHub 用户名、对应仓库名、多说 ID ，保存。多说账号在这里申请 http://duoshuo.com/
+① Fork 本项目，然后再新建一个用于存放博客内容（即 Issues）的 repo 。 （Fork 的项目是没有 Issues 的，所以得新建个仓库）
+
+② 修改 gh-pages 分支下根目录的 config.js，填写好对应的博客名称，你自己的 GitHub 用户名、对应仓库名、多说 ID ，保存。多说账号在这里申请 http://duoshuo.com/
+
 ```javascript
 var _config = {
   blog_name : 'FatliTalk 李庆权的博客',  // 博客名称
@@ -24,14 +26,19 @@ var _config = {
   per_page: '15'                // 默认一页显示几篇文章
 }
 ```
-3. 保存后即可通过 `http://用户名.github.io/blog` 即可访问
-4. 注意：至少得有一次提交， [GitHub Pages](https://github.com/FatliTalk/blog/issues/12) 功能才会生效，直接 Fork 没有任何修改是不行的。
-5. 如果你想绑定独立域名：修改根目录的 CNAME 文件，将其中的网址修改为你的域名，并把你的域名放在域名解析商进行解析，即可使用你的域名进行访问。参考： https://github.com/FatliTalk/blog/issues/12
+
+③ 保存后即可通过 `http://用户名.github.io/blog` 即可访问
+
+注意：至少得有一次提交， [GitHub Pages](https://github.com/FatliTalk/blog/issues/12) 功能才会生效，直接 Fork 没有任何修改是不行的。
+
+如果你想绑定独立域名：修改根目录的 CNAME 文件，将其中的网址修改为你的域名，并把你的域名放在域名解析商进行解析，即可使用你的域名进行访问。参考： https://github.com/FatliTalk/blog/issues/12
 
 ## 二、部署方法(方案2)
 
-1. `Clone or download` 本仓库，修改根目录的 config.js
-填写好对应的博客名称，你自己的 GitHub 用户名、对应仓库名、多说 ID ，保存。多说账号在这里申请 http://duoshuo.com/
+① `Clone or download` 本仓库，
+
+② 修改根目录的 config.js ，填写好对应的博客名称，你自己的 GitHub 用户名、对应仓库名、多说 ID ，保存。多说账号在这里申请 http://duoshuo.com/
+
 ```javascript
 var _config = {
   blog_name : 'FatliTalk 李庆权的博客',  // 博客名称
@@ -42,8 +49,10 @@ var _config = {
   per_page: '15'                // 默认一页显示几篇文章
 }
 ```
-2. 接下来就是在对应的 repo 的 Issues 下写文章了！
-3. 其它同上。
+
+③ 接下来就是在对应的 repo 的 Issues 下写文章了
+
+其它同上。
 
 ## 三、提高 API 访问次数的配额
 
