@@ -1,6 +1,6 @@
 > [基于 GitHub Issues 的静态博客：](https://FatliTalk.github.io/blog) http://FatliTalk.com
 
-利用 Github 提供的 API 来实现一个只有一个静态页面的博客，具体思路如下：
+利用 Github 提供的 API 实现一个基于 GitHub Pages 的静态页面博客，具体思路如下：
 
 1. 作者在 Github Issues 上写文章（写 Issues）
 2. 博客页面通过 JS Ajax 请求 Github API 来获取文章内容，进行页面的渲染
