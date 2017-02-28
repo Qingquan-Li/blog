@@ -1,4 +1,4 @@
-> [基于 GitHub Issues 的静态博客：](https://FatliTalk.github.io/blog) http://FatliTalk.com
+> [获取 GitHub Issues 的静态博客：](https://FatliTalk.github.io/blog) http://FatliTalk.com
 
 利用 Github 提供的 API 实现一个基于 GitHub Pages 的静态页面博客，具体思路如下：
 
