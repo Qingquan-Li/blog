@@ -19,6 +19,8 @@
 #### [博弈论](https://github.com/FatliTalk/blog/issues/14)
 #### [二进制](https://github.com/FatliTalk/blog/issues/15)
 #### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
+#### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
+#### [百度网盘_恢复下载失败的文件](https://github.com/FatliTalk/blog/issues/46)
 
 <br>
 
