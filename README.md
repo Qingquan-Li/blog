@@ -42,6 +42,7 @@
 #### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
 #### [Java 基础知识点](https://github.com/FatliTalk/blog/issues/33)
 #### [Java 面向对象三大特性以及抽象类和接口](https://github.com/FatliTalk/blog/issues/34)
+#### [Java高级特性_1 集合框架及泛型](https://github.com/FatliTalk/blog/issues/36)
 #### [Java集合框架_hashCode() & equals()](https://github.com/FatliTalk/blog/issues/35)
 #### [JavaWeb_2 JSP实现数据传递和保存](https://github.com/FatliTalk/blog/issues/38)
 #### [Mac下Java环境配置](https://github.com/FatliTalk/blog/issues/44)
