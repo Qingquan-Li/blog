@@ -34,18 +34,18 @@
 
 ## Java
 
-#### [Java 面向对象的概念整理](https://github.com/FatliTalk/blog/issues/5)
-#### [Java高级特性_5 XML](https://github.com/FatliTalk/blog/issues/6)
-#### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
-#### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
-#### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
-#### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
 #### [Java 基础知识点](https://github.com/FatliTalk/blog/issues/33)
+#### [Java 面向对象的概念整理](https://github.com/FatliTalk/blog/issues/5)
 #### [Java 面向对象三大特性以及抽象类和接口](https://github.com/FatliTalk/blog/issues/34)
 #### [Java高级特性_1 集合框架及泛型](https://github.com/FatliTalk/blog/issues/36)
 #### [Java集合框架_hashCode() & equals()](https://github.com/FatliTalk/blog/issues/35)
+#### [Java高级特性_5 XML](https://github.com/FatliTalk/blog/issues/6)
+#### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
 #### [JavaWeb_2 JSP实现数据传递和保存](https://github.com/FatliTalk/blog/issues/38)
 #### [Mac下Java环境配置](https://github.com/FatliTalk/blog/issues/44)
+#### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
+#### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
+#### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
 
 <br>
 
