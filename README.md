@@ -88,3 +88,9 @@
 #### [JavaScript_1 基础与语法](https://github.com/FatliTalk/blog/issues/39)
 #### [JavaScript_2 表单验证](https://github.com/FatliTalk/blog/issues/41)
 #### [JavaScript_3 表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
+
+<br>
+
+## Python
+
+#### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
