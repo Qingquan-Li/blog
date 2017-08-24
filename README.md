@@ -94,3 +94,4 @@
 ## Python
 
 #### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
+#### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
