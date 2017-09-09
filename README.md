@@ -23,6 +23,7 @@
 #### [百度网盘_恢复下载失败的文件](https://github.com/FatliTalk/blog/issues/46)
 #### [TCP/IP 协议](https://github.com/FatliTalk/blog/issues/47)
 #### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
+#### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
 
 <br>
 
