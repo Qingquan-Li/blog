@@ -26,6 +26,9 @@
 #### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
 #### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
 #### [Anna Quindlen 的《不曾走过，怎会懂得》](https://github.com/FatliTalk/blog/issues/53)
+#### [王小波的《一只特立独行的猪》](https://github.com/FatliTalk/blog/issues/54)
+#### [趋势](https://github.com/FatliTalk/blog/issues/55)
+#### [莫欺少年穷](https://github.com/FatliTalk/blog/issues/56)
 
 <br>
 
