@@ -25,6 +25,7 @@
 #### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
 #### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
 #### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
+#### [Anna Quindlen 的《不曾走过，怎会懂得》](https://github.com/FatliTalk/blog/issues/53)
 
 <br>
 
