@@ -74,6 +74,7 @@
 #### [HTML_3 表单](https://github.com/FatliTalk/blog/issues/19)
 #### [CSS_1 CSS浮动（float,clear）通俗讲解](https://github.com/FatliTalk/blog/issues/27)
 #### [CSS_2 CSS实例-商品列表](https://github.com/FatliTalk/blog/issues/28)
+#### [分辨率相关：屏幕尺寸、px、pt、em 以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
 
 <br>
 
