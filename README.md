@@ -30,6 +30,7 @@
 #### [趋势](https://github.com/FatliTalk/blog/issues/55)
 #### [莫欺少年穷](https://github.com/FatliTalk/blog/issues/56)
 #### [Mac 使用「预览」来合并两张图片](https://github.com/FatliTalk/blog/issues/57)
+#### [Homebrew：macOS软件包管理工具](https://github.com/FatliTalk/blog/issues/60)
 <br>
 
 ## Markdown
