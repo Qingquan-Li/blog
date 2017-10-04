@@ -31,29 +31,14 @@
 #### [莫欺少年穷](https://github.com/FatliTalk/blog/issues/56)
 #### [Mac 使用「预览」来合并两张图片](https://github.com/FatliTalk/blog/issues/57)
 #### [Homebrew：macOS软件包管理工具](https://github.com/FatliTalk/blog/issues/59)
+#### [Wget](https://github.com/FatliTalk/blog/issues/60)
+
 <br>
 
 ## Markdown
 
 #### [Markdown 是什么？](https://github.com/FatliTalk/blog/issues/3)
 #### [Markdown 语法](https://github.com/FatliTalk/blog/issues/2)
-
-<br>
-
-## Java
-
-#### [Java 基础知识点](https://github.com/FatliTalk/blog/issues/33)
-#### [Java 面向对象的概念整理](https://github.com/FatliTalk/blog/issues/5)
-#### [Java 面向对象三大特性以及抽象类和接口](https://github.com/FatliTalk/blog/issues/34)
-#### [Java高级特性_1 集合框架及泛型](https://github.com/FatliTalk/blog/issues/36)
-#### [Java集合框架_hashCode() & equals()](https://github.com/FatliTalk/blog/issues/35)
-#### [Java高级特性_5 XML](https://github.com/FatliTalk/blog/issues/6)
-#### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
-#### [JavaWeb_2 JSP实现数据传递和保存](https://github.com/FatliTalk/blog/issues/38)
-#### [Mac下Java环境配置](https://github.com/FatliTalk/blog/issues/44)
-#### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
-#### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
-#### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
 
 <br>
 
@@ -79,6 +64,38 @@
 
 <br>
 
+## JavaScript
+
+#### [JavaScript_1 基础与语法](https://github.com/FatliTalk/blog/issues/39)
+#### [JavaScript_2 表单验证](https://github.com/FatliTalk/blog/issues/41)
+#### [JavaScript_3 表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
+
+<br>
+
+## Java
+
+#### [Java 基础知识点](https://github.com/FatliTalk/blog/issues/33)
+#### [Java 面向对象的概念整理](https://github.com/FatliTalk/blog/issues/5)
+#### [Java 面向对象三大特性以及抽象类和接口](https://github.com/FatliTalk/blog/issues/34)
+#### [Java高级特性_1 集合框架及泛型](https://github.com/FatliTalk/blog/issues/36)
+#### [Java集合框架_hashCode() & equals()](https://github.com/FatliTalk/blog/issues/35)
+#### [Java高级特性_5 XML](https://github.com/FatliTalk/blog/issues/6)
+#### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
+#### [JavaWeb_2 JSP实现数据传递和保存](https://github.com/FatliTalk/blog/issues/38)
+#### [Mac下Java环境配置](https://github.com/FatliTalk/blog/issues/44)
+#### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
+#### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
+#### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
+
+<br>
+
+## Python
+
+#### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
+#### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
+
+<br>
+
 ## MySQL
 
 #### [MySQL_1 初识MySQL数据库](https://github.com/FatliTalk/blog/issues/20)
@@ -89,18 +106,3 @@
 #### [MySQL_6 创建和使用索引](https://github.com/FatliTalk/blog/issues/25)
 #### [MySQL_7 MySQL数据库备份与恢复](https://github.com/FatliTalk/blog/issues/26)
 #### [常用 SQL 语句（ MySQL ）](https://github.com/FatliTalk/blog/issues/37)
-
-<br>
-
-## JavaScript
-
-#### [JavaScript_1 基础与语法](https://github.com/FatliTalk/blog/issues/39)
-#### [JavaScript_2 表单验证](https://github.com/FatliTalk/blog/issues/41)
-#### [JavaScript_3 表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
-
-<br>
-
-## Python
-
-#### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
-#### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
