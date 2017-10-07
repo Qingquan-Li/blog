@@ -42,6 +42,12 @@
 
 <br>
 
+## Git
+
+#### [Git_1 了解 Git](https://github.com/FatliTalk/blog/issues/61)
+
+<br>
+
 ## GitHub
 
 #### [GitHub for Windows](https://github.com/FatliTalk/blog/issues/10)
