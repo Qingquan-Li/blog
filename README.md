@@ -45,6 +45,7 @@
 ## Git
 
 #### [Git_1 了解 Git](https://github.com/FatliTalk/blog/issues/61)
+#### [Git_2 Git 配置](https://github.com/FatliTalk/blog/issues/62)
 
 <br>
 
