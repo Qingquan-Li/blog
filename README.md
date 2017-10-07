@@ -46,6 +46,7 @@
 
 #### [Git_1 了解 Git](https://github.com/FatliTalk/blog/issues/61)
 #### [Git_2 Git 配置](https://github.com/FatliTalk/blog/issues/62)
+#### [Git_3 Git 文件的三种状态及其生命周期](https://github.com/FatliTalk/blog/issues/63)
 
 <br>
 
