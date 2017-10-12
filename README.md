@@ -47,6 +47,12 @@
 #### [Git_1 了解 Git](https://github.com/FatliTalk/blog/issues/61)
 #### [Git_2 Git 配置](https://github.com/FatliTalk/blog/issues/62)
 #### [Git_3 Git 文件的三种状态及其生命周期](https://github.com/FatliTalk/blog/issues/63)
+#### [Git_4 仓库初始化／克隆现有仓库](https://github.com/FatliTalk/blog/issues/64)
+#### [Git_5 记录每次更新到仓库](https://github.com/FatliTalk/blog/issues/65)
+#### [Git_6 远程仓库的使用（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/66)
+#### [Git_7 提交历史](https://github.com/FatliTalk/blog/issues/67)
+#### [Git_8 撤销操作](https://github.com/FatliTalk/blog/issues/68)
+#### [Git_9 打标签](https://github.com/FatliTalk/blog/issues/69)
 
 <br>
 
