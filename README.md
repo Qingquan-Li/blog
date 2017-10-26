@@ -32,6 +32,7 @@
 #### [Mac 使用「预览」来合并两张图片](https://github.com/FatliTalk/blog/issues/57)
 #### [Homebrew：macOS软件包管理工具](https://github.com/FatliTalk/blog/issues/59)
 #### [Wget](https://github.com/FatliTalk/blog/issues/60)
+#### [Mac - iTerm 基础配置](https://github.com/FatliTalk/blog/issues/70)
 
 <br>
 
