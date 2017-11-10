@@ -33,6 +33,7 @@
 #### [Homebrew：macOS软件包管理工具](https://github.com/FatliTalk/blog/issues/59)
 #### [Wget](https://github.com/FatliTalk/blog/issues/60)
 #### [Mac - iTerm 基础配置](https://github.com/FatliTalk/blog/issues/70)
+#### [Mac 终端文件目录树状(tree)显示](https://github.com/FatliTalk/blog/issues/72)
 
 <br>
 
