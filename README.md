@@ -34,6 +34,7 @@
 #### [Wget](https://github.com/FatliTalk/blog/issues/60)
 #### [Mac - iTerm 基础配置](https://github.com/FatliTalk/blog/issues/70)
 #### [Mac 终端文件目录树状(tree)显示](https://github.com/FatliTalk/blog/issues/72)
+#### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
 
 <br>
 
