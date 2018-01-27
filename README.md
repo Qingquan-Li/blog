@@ -18,10 +18,8 @@
 #### [美国高中的兼职——实验室助理](https://github.com/FatliTalk/blog/issues/9)
 #### [博弈论](https://github.com/FatliTalk/blog/issues/14)
 #### [二进制](https://github.com/FatliTalk/blog/issues/15)
-#### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
 #### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
 #### [百度网盘_恢复下载失败的文件](https://github.com/FatliTalk/blog/issues/46)
-#### [TCP/IP 协议](https://github.com/FatliTalk/blog/issues/47)
 #### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
 #### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
 #### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
@@ -34,7 +32,6 @@
 #### [Wget](https://github.com/FatliTalk/blog/issues/60)
 #### [Mac - iTerm 基础配置](https://github.com/FatliTalk/blog/issues/70)
 #### [Mac 终端文件目录树状(tree)显示](https://github.com/FatliTalk/blog/issues/72)
-#### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
 #### [2017年终总结](https://github.com/FatliTalk/blog/issues/77)
 #### [《无问西东》台词摘录](https://github.com/FatliTalk/blog/issues/78)
 
@@ -67,6 +64,13 @@
 #### [IntelliJ IDEA 提交代码到 GitHub](https://github.com/FatliTalk/blog/issues/11)
 #### [GitHub Pages](https://github.com/FatliTalk/blog/issues/12)
 #### [你必须收藏的Github技巧](https://github.com/FatliTalk/blog/issues/13)
+
+<br>
+
+## 计算机网络
+#### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
+#### [TCP/IP 协议](https://github.com/FatliTalk/blog/issues/47)
+#### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
 
 <br>
 
