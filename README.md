@@ -69,8 +69,8 @@
 <br>
 
 ## 计算机网络
-#### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
 #### [TCP/IP基础](https://github.com/FatliTalk/blog/issues/47)
+#### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
 #### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
 
 <br>
