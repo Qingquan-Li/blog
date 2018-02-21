@@ -116,6 +116,7 @@
 ## Python
 
 ###### [安装Python（Linux／macOS／Windows）](https://github.com/FatliTalk/blog/issues/80)
+###### [Python3数据类型](https://github.com/FatliTalk/blog/issues/81)
 ###### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
 ###### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
 ###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
