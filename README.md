@@ -118,7 +118,7 @@
 ###### [安装Python（Linux／macOS／Windows）](https://github.com/FatliTalk/blog/issues/80)
 ###### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
 ###### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
-###### [图像识别：简单的从一张图片中识别出中文](https://github.com/FatliTalk/blog/issues/71)
+###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
 ###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
 ###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
 ###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
