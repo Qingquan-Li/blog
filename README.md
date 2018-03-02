@@ -35,6 +35,7 @@
 ###### [2017年终总结](https://github.com/FatliTalk/blog/issues/77)
 ###### [《无问西东》台词摘录](https://github.com/FatliTalk/blog/issues/78)
 ###### [共享经济这么火，为什么“人的共享”一直没有大爆发？](https://github.com/FatliTalk/blog/issues/79)
+###### [《吴军硅谷来信》笔记](https://github.com/FatliTalk/blog/issues/82)
 
 <br>
 
