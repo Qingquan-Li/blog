@@ -125,6 +125,7 @@
 ###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
 ###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
 ###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
+###### [Python实参形参](https://github.com/FatliTalk/blog/issues/84)
 
 
 <br>
