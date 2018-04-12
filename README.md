@@ -43,6 +43,7 @@
 
 ###### [Markdown 是什么？](https://github.com/FatliTalk/blog/issues/3)
 ###### [Markdown 语法](https://github.com/FatliTalk/blog/issues/2)
+###### [使用Markdown（Typora）绘制图表](https://github.com/FatliTalk/blog/issues/88)
 
 <br>
 
