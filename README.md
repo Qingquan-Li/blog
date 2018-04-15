@@ -120,18 +120,17 @@
 ## Python
 
 ###### [安装Python（Linux／macOS／Windows）](https://github.com/FatliTalk/blog/issues/80)
+###### [Python编码风格](https://github.com/FatliTalk/blog/issues/86)
 ###### [pip安装及使用](https://github.com/FatliTalk/blog/issues/87)
+###### [为Python项目建立虚拟环境](https://github.com/FatliTalk/blog/issues/85)
 ###### [Python3数据类型](https://github.com/FatliTalk/blog/issues/81)
+###### [Python实参形参](https://github.com/FatliTalk/blog/issues/84)
 ###### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
 ###### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
 ###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
 ###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
 ###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
 ###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
-###### [Python实参形参](https://github.com/FatliTalk/blog/issues/84)
-###### [为Python项目建立虚拟环境](https://github.com/FatliTalk/blog/issues/85)
-###### [Python编码风格](https://github.com/FatliTalk/blog/issues/86)
-
 
 <br>
 
