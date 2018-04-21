@@ -81,7 +81,7 @@
 ## 前端技术
 
 ###### [HTML+CSS 知识结构梳理](https://github.com/FatliTalk/blog/issues/29)
-###### [常用前端代码](https://github.com/FatliTalk/blog/issues/43)
+###### [:nth-child() 选择器：实现奇偶行隔行换色](https://github.com/FatliTalk/blog/issues/43)
 ###### [HTML_1 HTML基础](https://github.com/FatliTalk/blog/issues/17)
 ###### [HTML_2 列表、表格与框架](https://github.com/FatliTalk/blog/issues/18)
 ###### [HTML_3 表单](https://github.com/FatliTalk/blog/issues/19)
