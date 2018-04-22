@@ -99,6 +99,7 @@
 ###### [JavaScript表单验证](https://github.com/FatliTalk/blog/issues/41)
 ###### [JavaScript表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
 ###### [Javascript的this用法](https://github.com/FatliTalk/blog/issues/82)
+###### [JavaScript中的标点符号（逗号、分号）](https://github.com/FatliTalk/blog/issues/92)
 
 <br>
 
