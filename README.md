@@ -95,6 +95,7 @@
 
 ###### [了解JavaScript](https://github.com/FatliTalk/blog/issues/39)
 ###### [JavaScript基础语法](https://github.com/FatliTalk/blog/issues/90)
+###### [JavaScript函数](https://github.com/FatliTalk/blog/issues/94)
 ###### [JavaScript的DOM和BOM](https://github.com/FatliTalk/blog/issues/91)
 ###### [JavaScript对象](https://github.com/FatliTalk/blog/issues/93)
 ###### [JavaScript表单验证](https://github.com/FatliTalk/blog/issues/41)
