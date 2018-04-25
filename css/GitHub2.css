@@ -273,7 +273,7 @@ pre code {
 
 pre {
   /* 清除代码块颜色（黑色） */
-  /* background-color: #222; */
+  background-color: #222;
   border: 1px solid #cccccc;
   font-size: 13px;
   line-height: 19px;
