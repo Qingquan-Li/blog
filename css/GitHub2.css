@@ -272,7 +272,9 @@ pre code {
   border-radius: 3px; }
 
 pre {
-  background-color: #222;
+  /* 代码块颜色改成浅灰色 */
+  /* background-color: #222; */
+  background-color: #eeeeee;
   border: 1px solid #cccccc;
   font-size: 13px;
   line-height: 19px;
