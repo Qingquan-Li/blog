@@ -36,6 +36,7 @@
 ###### [《无问西东》台词摘录](https://github.com/FatliTalk/blog/issues/78)
 ###### [共享经济这么火，为什么“人的共享”一直没有大爆发？](https://github.com/FatliTalk/blog/issues/79)
 ###### [《人类简史》摘录](https://github.com/FatliTalk/blog/issues/83)
+###### [LCD、OLED等显示器基础知识](https://github.com/FatliTalk/blog/issues/95)
 
 <br>
 
