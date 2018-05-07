@@ -139,6 +139,7 @@
 ###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
 ###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
 ###### [浅谈Python多线程](https://github.com/FatliTalk/blog/issues/96)
+###### [使用Pygal库可视化Python获取的API数据](https://github.com/FatliTalk/blog/issues/98)
 
 <br>
 
