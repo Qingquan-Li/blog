@@ -39,6 +39,7 @@
 ###### [《人类简史》摘录](https://github.com/FatliTalk/blog/issues/83)
 ###### [LCD、OLED等显示器基础知识](https://github.com/FatliTalk/blog/issues/95)
 ###### [英语音标](https://github.com/FatliTalk/blog/issues/99)
+###### [了解区块链](https://github.com/FatliTalk/blog/issues/101)
 
 <br>
 
