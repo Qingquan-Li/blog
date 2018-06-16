@@ -108,6 +108,7 @@
 ###### [JavaScript表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
 ###### [Javascript的this用法](https://github.com/FatliTalk/blog/issues/82)
 ###### [JavaScript中的标点符号（逗号、分号）](https://github.com/FatliTalk/blog/issues/92)
+###### [node安装](https://github.com/FatliTalk/blog/issues/103)
 
 <br>
 
