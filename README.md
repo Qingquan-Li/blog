@@ -40,6 +40,7 @@
 ###### [LCD、OLED等显示器基础知识](https://github.com/FatliTalk/blog/issues/95)
 ###### [英语音标](https://github.com/FatliTalk/blog/issues/99)
 ###### [了解区块链](https://github.com/FatliTalk/blog/issues/101)
+###### [FFmpeg 音视频转码命令](https://github.com/FatliTalk/blog/issues/105)
 
 <br>
 
