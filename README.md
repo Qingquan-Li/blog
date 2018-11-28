@@ -85,6 +85,14 @@
 
 <br>
 
+## 设计
+
+###### [分辨率相关：屏幕尺寸、px、pt、em 以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
+###### [《写给大家看的设计书》读书笔记](https://github.com/FatliTalk/blog/issues/107)
+
+<br>
+
+
 ## 前端技术
 
 ###### [HTML+CSS 知识结构梳理](https://github.com/FatliTalk/blog/issues/29)
@@ -94,7 +102,6 @@
 ###### [CSS_1 CSS浮动（float,clear）通俗讲解](https://github.com/FatliTalk/blog/issues/27)
 ###### [CSS_2 CSS实例-商品列表](https://github.com/FatliTalk/blog/issues/28)
 ###### [:nth-child() 选择器：实现奇偶行隔行换色](https://github.com/FatliTalk/blog/issues/43)
-###### [分辨率相关：屏幕尺寸、px、pt、em 以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
 
 <br>
 
