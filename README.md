@@ -154,7 +154,7 @@
 ###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
 ###### [浅谈Python多线程](https://github.com/FatliTalk/blog/issues/96)
 ###### [使用Pygal库可视化Python获取的API数据](https://github.com/FatliTalk/blog/issues/98)
-###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/107)
+###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
 
 <br>
 
