@@ -170,3 +170,6 @@
 ###### [MySQL_6 创建和使用索引](https://github.com/FatliTalk/blog/issues/25)
 ###### [MySQL_7 MySQL数据库备份与恢复](https://github.com/FatliTalk/blog/issues/26)
 ###### [常用 SQL 语句（ MySQL ）](https://github.com/FatliTalk/blog/issues/37)
+
+## Linux
+###### [macOS上用VMWare虚拟机安装Ubuntu](https://github.com/FatliTalk/blog/issues/111)
