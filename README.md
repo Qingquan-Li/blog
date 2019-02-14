@@ -65,7 +65,7 @@
 ###### [Git_9 打标签](https://github.com/FatliTalk/blog/issues/69)
 ###### [Git 远程操作（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/102)
 ###### [Ubuntu搭建Git服务器）](https://github.com/FatliTalk/blog/issues/112)
-###### [git部署项目至服务器）](https://github.com/FatliTalk/blog/issues/113)
+###### [git部署项目至服务器](https://github.com/FatliTalk/blog/issues/113)
 
 <br>
 
