@@ -180,3 +180,4 @@
 
 ###### [macOS上用VMWare虚拟机安装Ubuntu](https://github.com/FatliTalk/blog/issues/111)
 ###### [Screen命令行窗口管理器](https://github.com/FatliTalk/blog/issues/114)
+###### [Linux常用查找命令](https://github.com/FatliTalk/blog/issues/116)
