@@ -163,6 +163,7 @@
 ###### [Python正则表达式](https://github.com/FatliTalk/blog/issues/117)
 ###### [函数的回调和递归函数](https://github.com/FatliTalk/blog/issues/118)
 ###### [Anaconda安装及使用](https://github.com/FatliTalk/blog/issues/119)
+###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
 
 <br>
 
