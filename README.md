@@ -170,10 +170,10 @@
 ## MySQL
 
 ###### [MySQL_1 初识MySQL数据库](https://github.com/FatliTalk/blog/issues/20)
-###### [MySQL_2 创建MySQL数据库和表_DDL](https://github.com/FatliTalk/blog/issues/21)
-###### [MySQL_3 MySQL数据库数据管理_DML](https://github.com/FatliTalk/blog/issues/22)
-###### [MySQL_4 使用事务保证数据完整性_TCL](https://github.com/FatliTalk/blog/issues/23)
-###### [MySQL_5 使用DQL命令查询数据_DQL](https://github.com/FatliTalk/blog/issues/24)
+###### [MySQL_2 创建MySQL数据库和表_DDL（CREATE）](https://github.com/FatliTalk/blog/issues/21)
+###### [MySQL_3 MySQL数据库数据管理_DML（INSERT、UPDATE、DELETE）](https://github.com/FatliTalk/blog/issues/22)
+###### [MySQL_4 使用事务保证数据完整性_TCL（SET AUTOCOMMIT、START TRANSACTION、COMMIT、ROLLBACK）](https://github.com/FatliTalk/blog/issues/23)
+###### [MySQL_5 使用DQL命令查询数据_DQL（SELECT）](https://github.com/FatliTalk/blog/issues/24)
 ###### [MySQL_6 创建和使用索引](https://github.com/FatliTalk/blog/issues/25)
 ###### [MySQL_7 MySQL数据库备份与恢复](https://github.com/FatliTalk/blog/issues/26)
 ###### [常用 SQL 语句（ MySQL ）](https://github.com/FatliTalk/blog/issues/37)
