@@ -165,6 +165,7 @@
 ###### [Anaconda安装及使用](https://github.com/FatliTalk/blog/issues/119)
 ###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
 ###### [Python发送邮件](https://github.com/FatliTalk/blog/issues/123)
+###### [Python读取PDF文档](https://github.com/FatliTalk/blog/issues/124)
 
 <br>
 
