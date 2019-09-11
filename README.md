@@ -166,6 +166,7 @@
 ###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
 ###### [Python发送邮件](https://github.com/FatliTalk/blog/issues/123)
 ###### [Python读取PDF文档](https://github.com/FatliTalk/blog/issues/124)
+###### [Selenium Webdriver显示等待和隐式等待](https://github.com/FatliTalk/blog/issues/125)
 
 <br>
 
