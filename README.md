@@ -169,6 +169,7 @@
 ###### [Selenium Webdriver显式等待和隐式等待](https://github.com/FatliTalk/blog/issues/125)
 ###### [Python词云wordcloud](https://github.com/FatliTalk/blog/issues/126)
 ###### [Selenium+PhantomJS模拟登录](https://github.com/FatliTalk/blog/issues/127)
+###### [Selenium+Chrome模拟登录](https://github.com/FatliTalk/blog/issues/128)
 
 <br>
 
