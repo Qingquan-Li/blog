@@ -83,7 +83,7 @@
 ###### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
 ###### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
 ###### [HTTP状态码](https://github.com/FatliTalk/blog/issues/89)
-###### [macOS终端设置使用代理网络](https://github.com/FatliTalk/blog/issues/131)
+###### [macOS终端使用代理网络](https://github.com/FatliTalk/blog/issues/131)
 
 <br>
 
