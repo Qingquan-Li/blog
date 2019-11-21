@@ -21,7 +21,6 @@
 ###### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
 ###### [百度网盘_恢复下载失败的文件](https://github.com/FatliTalk/blog/issues/46)
 ###### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
-###### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
 ###### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
 ###### [Anna Quindlen 的《不曾走过，怎会懂得》](https://github.com/FatliTalk/blog/issues/53)
 ###### [王小波的《一只特立独行的猪》](https://github.com/FatliTalk/blog/issues/54)
@@ -29,8 +28,6 @@
 ###### [莫欺少年穷](https://github.com/FatliTalk/blog/issues/56)
 ###### [Mac 使用「预览」来合并两张图片](https://github.com/FatliTalk/blog/issues/57)
 ###### [Homebrew：macOS软件包管理工具](https://github.com/FatliTalk/blog/issues/59)
-###### [Wget](https://github.com/FatliTalk/blog/issues/60)
-###### [cURL](https://github.com/FatliTalk/blog/issues/97)
 ###### [Mac - iTerm 基础配置](https://github.com/FatliTalk/blog/issues/70)
 ###### [Mac 终端文件目录树状(tree)显示](https://github.com/FatliTalk/blog/issues/72)
 ###### [2017年终总结](https://github.com/FatliTalk/blog/issues/77)
@@ -192,6 +189,9 @@
 
 ## Linux
 
+###### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
+###### [Wget](https://github.com/FatliTalk/blog/issues/60)
+###### [cURL](https://github.com/FatliTalk/blog/issues/97)
 ###### [macOS上用VMWare虚拟机安装Ubuntu](https://github.com/FatliTalk/blog/issues/111)
 ###### [Screen命令行窗口管理器](https://github.com/FatliTalk/blog/issues/114)
 ###### [Linux常用查找命令](https://github.com/FatliTalk/blog/issues/116)
