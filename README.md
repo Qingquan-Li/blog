@@ -161,7 +161,7 @@
 ###### [使用ItChat库发微信信息](https://github.com/FatliTalk/blog/issues/110)
 ###### [Python正则表达式](https://github.com/FatliTalk/blog/issues/117)
 ###### [函数的回调和递归函数](https://github.com/FatliTalk/blog/issues/118)
-###### [Anaconda安装及使用](https://github.com/FatliTalk/blog/issues/119)
+###### [Anaconda的安装及conda的使用](https://github.com/FatliTalk/blog/issues/119)
 ###### [Linux 上安装 conda（miniconda）](https://github.com/FatliTalk/blog/issues/133)
 ###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
 ###### [Python发送邮件](https://github.com/FatliTalk/blog/issues/123)
