@@ -62,7 +62,7 @@
 ###### [Git_9 打标签（git tag）](https://github.com/FatliTalk/blog/issues/69)
 ###### [Git 远程操作（以 GitHub 为例）（git checkout、remote、push、pull、fetch、merge）](https://github.com/FatliTalk/blog/issues/102)
 ###### [Ubuntu搭建Git服务器](https://github.com/FatliTalk/blog/issues/112)
-###### [git部署项目至服务器](https://github.com/FatliTalk/blog/issues/113)
+###### [git部署项目代码至服务器](https://github.com/FatliTalk/blog/issues/113)
 ###### [macOS更新git](https://github.com/FatliTalk/blog/issues/115)
 
 <br>
