@@ -200,3 +200,5 @@
 ###### [使用scp与服务器传输文件](https://github.com/FatliTalk/blog/issues/132)
 ###### [创建软链接](https://github.com/FatliTalk/blog/issues/134)
 ###### [Linux文件权限](https://github.com/FatliTalk/blog/issues/135)
+###### [配置网站的IP地址到hosts中](https://github.com/FatliTalk/blog/issues/136)
+
