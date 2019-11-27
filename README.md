@@ -198,3 +198,4 @@
 ###### [Linux常用查找命令](https://github.com/FatliTalk/blog/issues/116)
 ###### [SSH登录远程主机](https://github.com/FatliTalk/blog/issues/130)
 ###### [使用scp与服务器传输文件](https://github.com/FatliTalk/blog/issues/132)
+###### [创建软链接](https://github.com/FatliTalk/blog/issues/134)
