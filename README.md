@@ -170,6 +170,7 @@
 ###### [Python词云wordcloud](https://github.com/FatliTalk/blog/issues/126)
 ###### [Selenium+PhantomJS模拟登录](https://github.com/FatliTalk/blog/issues/127)
 ###### [Selenium+Chrome模拟登录](https://github.com/FatliTalk/blog/issues/128)
+###### [部署Django项目](https://github.com/FatliTalk/blog/issues/137)
 
 <br>
 
