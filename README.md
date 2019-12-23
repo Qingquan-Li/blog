@@ -91,6 +91,7 @@
 
 ###### [分辨率相关：屏幕尺寸、px、pt、em，物理像素和逻辑像素，以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
 ###### [《写给大家看的设计书》读书笔记](https://github.com/FatliTalk/blog/issues/107)
+###### [三月一科技 VI 设计 - 简要说明](https://github.com/FatliTalk/blog/issues/141)
 
 <br>
 
