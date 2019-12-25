@@ -206,4 +206,4 @@
 ###### [创建软链接](https://github.com/FatliTalk/blog/issues/134)
 ###### [Linux文件权限](https://github.com/FatliTalk/blog/issues/135)
 ###### [配置网站的IP地址到hosts中](https://github.com/FatliTalk/blog/issues/136)
-###### [使用 Nginx 部署静态网站](https://github.com/FatliTalk/blog/issues/141)
+###### [使用 Nginx 部署静态网站（含配置 HTTPS）](https://github.com/FatliTalk/blog/issues/141)
