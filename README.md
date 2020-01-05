@@ -174,7 +174,7 @@
 ###### [部署Django项目](https://github.com/FatliTalk/blog/issues/137)
 ###### [Django 项目配置 MySQL](https://github.com/FatliTalk/blog/issues/139)
 ###### [使用UUID库生成唯一ID](https://github.com/FatliTalk/blog/issues/140)
-###### [Django 连接已存在的数据库自动生成 models](https://github.com/FatliTalk/blog/issues/143)
+###### [Django 连接已存在的数据库自动生成 models，并伪造数据库迁移](https://github.com/FatliTalk/blog/issues/143)
 
 <br>
 
