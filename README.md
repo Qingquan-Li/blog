@@ -122,6 +122,7 @@
 ###### [JavaScript中的标点符号（逗号、分号）](https://github.com/FatliTalk/blog/issues/92)
 ###### [node安装](https://github.com/FatliTalk/blog/issues/103)
 ###### [npm 基础用法](https://github.com/FatliTalk/blog/issues/104)
+###### [JavaScript == vs ===](https://github.com/FatliTalk/blog/issues/145)
 
 <br>
 
