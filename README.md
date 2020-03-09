@@ -162,6 +162,7 @@
 ###### [浅谈Python多线程](https://github.com/FatliTalk/blog/issues/96)
 ###### [使用Pygal库可视化Python获取的API数据](https://github.com/FatliTalk/blog/issues/98)
 ###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
+###### [Python Requsets（HTTP请求库）](https://github.com/FatliTalk/blog/issues/147)
 ###### [使用ItChat库发微信信息](https://github.com/FatliTalk/blog/issues/110)
 ###### [Python正则表达式](https://github.com/FatliTalk/blog/issues/117)
 ###### [函数的回调和递归函数](https://github.com/FatliTalk/blog/issues/118)
