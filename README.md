@@ -137,7 +137,7 @@
 ###### [Java高级特性_5 XML](https://github.com/FatliTalk/blog/issues/6)
 ###### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
 ###### [JavaWeb_2 JSP实现数据传递和保存](https://github.com/FatliTalk/blog/issues/38)
-###### [Mac下Java环境配置](https://github.com/FatliTalk/blog/issues/44)
+###### [macOS Java 安装和环境配置](https://github.com/FatliTalk/blog/issues/44)
 ###### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
 ###### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
 ###### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
