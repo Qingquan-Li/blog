@@ -141,6 +141,7 @@
 ###### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
 ###### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
 ###### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
+###### [VS Code 创建 Maven 项目](https://github.com/FatliTalk/blog/issues/148)
 
 <br>
 
