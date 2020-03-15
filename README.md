@@ -180,6 +180,7 @@
 ###### [Django 项目配置 MySQL](https://github.com/FatliTalk/blog/issues/139)
 ###### [使用UUID库生成唯一ID](https://github.com/FatliTalk/blog/issues/140)
 ###### [Django 连接已存在的数据库自动生成 models，并伪造数据库迁移](https://github.com/FatliTalk/blog/issues/143)
+###### [Python 定时任务框架 APScheduler](https://github.com/FatliTalk/blog/issues/149)
 
 <br>
 
