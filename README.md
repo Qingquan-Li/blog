@@ -5,11 +5,27 @@
 
 <br><br>
 
-# 目录：
+## 目录：
+
+1. <a href="#随笔">随笔</a>
+2. <a href="#Markdown">Markdown</a>
+3. <a href="#设计">设计</a>
+4. <a href="#前端技术">前端技术</a>
+5. <a href="#JavaScript">JavaScript</a>
+6. <a href="#Git">Git</a>
+7. <a href="#Python 基础">Python 基础</a>
+8. <a href="#Django 框架">Django 框架</a>
+9. <a href="#Python 网络数据采集">Python 网络数据采集</a>
+10. <a href="#Java">Java</a>
+11. <a href="#MySQL">MySQL</a>
+12. <a href="#计算机网络">计算机网络</a>
+13. <a href="#Linux">Linux</a>
 
 <br>
 
-## 随笔 
+<br>
+
+## <a name="随笔">随笔</a>
 
 ###### [Why GitHub Issues?](https://github.com/FatliTalk/blog/issues/1)
 ###### [程序员为什么不会修电脑？](https://github.com/FatliTalk/blog/issues/4)
@@ -41,7 +57,7 @@
 
 <br>
 
-## Markdown
+## <a name="Markdown">Markdown</a>
 
 ###### [Markdown 是什么？](https://github.com/FatliTalk/blog/issues/3)
 ###### [Markdown 语法](https://github.com/FatliTalk/blog/issues/2)
@@ -49,46 +65,7 @@
 
 <br>
 
-## Git
-
-###### [Git_1 了解 Git（git --version）](https://github.com/FatliTalk/blog/issues/61)
-###### [Git_2 Git 配置（git config）](https://github.com/FatliTalk/blog/issues/62)
-###### [Git_3 Git 文件的三种状态及其生命周期（git status，已修改modified、已暂存staged、已提交committed）](https://github.com/FatliTalk/blog/issues/63)
-###### [Git_4 仓库初始化／克隆现有仓库（git init／clone、add、commit）](https://github.com/FatliTalk/blog/issues/64)
-###### [Git_5 记录每次更新到仓库（git add、commit）](https://github.com/FatliTalk/blog/issues/65)
-###### [Git_6 远程仓库的使用（以 GitHub 为例）（git init、remote、add、commit、push）](https://github.com/FatliTalk/blog/issues/66)
-###### [Git_7 提交历史（git log）](https://github.com/FatliTalk/blog/issues/67)
-###### [Git_8 撤销操作（git commit --amend、git reset HEAD <file>）](https://github.com/FatliTalk/blog/issues/68)
-###### [Git_9 打标签（git tag）](https://github.com/FatliTalk/blog/issues/69)
-###### [Git 远程操作（以 GitHub 为例）（git checkout、remote、push、pull、fetch、merge）](https://github.com/FatliTalk/blog/issues/102)
-###### [Ubuntu搭建Git服务器](https://github.com/FatliTalk/blog/issues/112)
-###### [git部署项目代码至服务器](https://github.com/FatliTalk/blog/issues/113)
-###### [macOS更新git](https://github.com/FatliTalk/blog/issues/115)
-###### [fork - PR 操作流程（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/144)
-
-<br>
-
-## GitHub
-
-###### [GitHub for Windows](https://github.com/FatliTalk/blog/issues/10)
-###### [IntelliJ IDEA 提交代码到 GitHub](https://github.com/FatliTalk/blog/issues/11)
-###### [GitHub Pages](https://github.com/FatliTalk/blog/issues/12)
-###### [你必须收藏的Github技巧](https://github.com/FatliTalk/blog/issues/13)
-
-<br>
-
-## 计算机网络
-
-###### [TCP/IP基础](https://github.com/FatliTalk/blog/issues/47)
-###### [IP 地址的基础知识](https://github.com/FatliTalk/blog/issues/100)
-###### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
-###### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
-###### [HTTP状态码](https://github.com/FatliTalk/blog/issues/89)
-###### [macOS终端使用代理网络](https://github.com/FatliTalk/blog/issues/131)
-
-<br>
-
-## 设计
+## <a name="设计">设计</a>
 
 ###### [分辨率相关：屏幕尺寸、px、pt、em，物理像素和逻辑像素，以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
 ###### [《写给大家看的设计书》读书笔记](https://github.com/FatliTalk/blog/issues/107)
@@ -96,7 +73,7 @@
 
 <br>
 
-## 前端技术
+## <a name="前端技术">前端技术</a>
 
 ###### [HTML+CSS 知识结构梳理](https://github.com/FatliTalk/blog/issues/29)
 ###### [HTML_1 HTML基础](https://github.com/FatliTalk/blog/issues/17)
@@ -109,7 +86,7 @@
 
 <br>
 
-## JavaScript
+## <a name="JavaScript">JavaScript</a>
 
 ###### [了解JavaScript](https://github.com/FatliTalk/blog/issues/39)
 ###### [JavaScript基础语法](https://github.com/FatliTalk/blog/issues/90)
@@ -127,7 +104,79 @@
 
 <br>
 
-## Java
+## <a name="Git">Git</a>
+
+###### [Git_1 了解 Git（git --version）](https://github.com/FatliTalk/blog/issues/61)
+###### [Git_2 Git 配置（git config）](https://github.com/FatliTalk/blog/issues/62)
+###### [Git_3 Git 文件的三种状态及其生命周期（git status，已修改modified、已暂存staged、已提交committed）](https://github.com/FatliTalk/blog/issues/63)
+###### [Git_4 仓库初始化／克隆现有仓库（git init／clone、add、commit）](https://github.com/FatliTalk/blog/issues/64)
+###### [Git_5 记录每次更新到仓库（git add、commit）](https://github.com/FatliTalk/blog/issues/65)
+###### [Git_6 远程仓库的使用（以 GitHub 为例）（git init、remote、add、commit、push）](https://github.com/FatliTalk/blog/issues/66)
+###### [Git_7 提交历史（git log）](https://github.com/FatliTalk/blog/issues/67)
+###### [Git_8 撤销操作（git commit --amend、git reset HEAD \<file>）](https://github.com/FatliTalk/blog/issues/68)
+###### [Git_9 打标签（git tag）](https://github.com/FatliTalk/blog/issues/69)
+###### [GitHub for Windows](https://github.com/FatliTalk/blog/issues/10)
+###### [IntelliJ IDEA 提交代码到 GitHub](https://github.com/FatliTalk/blog/issues/11)
+###### [GitHub Pages](https://github.com/FatliTalk/blog/issues/12)
+###### [你必须收藏的Github技巧](https://github.com/FatliTalk/blog/issues/13)
+###### [Git 远程操作（以 GitHub 为例）（git checkout、remote、push、pull、fetch、merge）](https://github.com/FatliTalk/blog/issues/102)
+###### [Ubuntu搭建Git服务器](https://github.com/FatliTalk/blog/issues/112)
+###### [git部署项目代码至服务器](https://github.com/FatliTalk/blog/issues/113)
+###### [macOS更新git](https://github.com/FatliTalk/blog/issues/115)
+###### [fork - PR 操作流程（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/144)
+
+<br>
+
+## <a name="Python 基础">Python 基础</a>
+
+###### [安装Python（Linux／macOS／Windows）](https://github.com/FatliTalk/blog/issues/80)
+###### [Python编码风格](https://github.com/FatliTalk/blog/issues/86)
+###### [pip安装及使用](https://github.com/FatliTalk/blog/issues/87)
+###### [为Python项目建立虚拟环境](https://github.com/FatliTalk/blog/issues/85)
+###### [Python3数据类型](https://github.com/FatliTalk/blog/issues/81)
+###### [Python实参形参](https://github.com/FatliTalk/blog/issues/84)
+###### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
+###### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
+###### [Python字符串前加r ](https://github.com/FatliTalk/blog/issues/109)
+###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
+###### [浅谈Python多线程](https://github.com/FatliTalk/blog/issues/96)
+###### [使用Pygal库可视化Python获取的API数据](https://github.com/FatliTalk/blog/issues/98)
+###### [Python Requests（HTTP请求库）](https://github.com/FatliTalk/blog/issues/147)
+###### [使用ItChat库发微信信息](https://github.com/FatliTalk/blog/issues/110)
+###### [Python正则表达式](https://github.com/FatliTalk/blog/issues/117)
+###### [函数的回调和递归函数](https://github.com/FatliTalk/blog/issues/118)
+###### [Anaconda的安装及conda的使用](https://github.com/FatliTalk/blog/issues/119)
+###### [Linux 上安装 conda（miniconda）](https://github.com/FatliTalk/blog/issues/133)
+###### [Python发送邮件](https://github.com/FatliTalk/blog/issues/123)
+###### [Python读取PDF文档](https://github.com/FatliTalk/blog/issues/124)
+###### [Python词云wordcloud](https://github.com/FatliTalk/blog/issues/126)
+###### [使用UUID库生成唯一ID](https://github.com/FatliTalk/blog/issues/140)
+###### [Python 定时任务框架 APScheduler](https://github.com/FatliTalk/blog/issues/149)
+
+<br>
+
+## <a name="Django 框架">Django 框架</a>
+
+###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
+###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
+###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
+###### [部署Django项目](https://github.com/FatliTalk/blog/issues/137)
+###### [Django 项目配置 MySQL](https://github.com/FatliTalk/blog/issues/139)
+###### [Django 连接已存在的数据库（以 MySQL 为例）自动生成 models，并伪造数据库迁移](https://github.com/FatliTalk/blog/issues/143)
+
+<br>
+
+## <a name="Python 网络数据采集">Python 网络数据采集</a>
+
+###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
+###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
+###### [Selenium Webdriver显式等待和隐式等待](https://github.com/FatliTalk/blog/issues/125)
+###### [Selenium+PhantomJS模拟登录](https://github.com/FatliTalk/blog/issues/127)
+###### [Selenium+Chrome模拟登录](https://github.com/FatliTalk/blog/issues/128)
+
+<br>
+
+## <a name="Java">Java</a>
 
 ###### [Java 基础知识点](https://github.com/FatliTalk/blog/issues/33)
 ###### [Java 面向对象的概念整理](https://github.com/FatliTalk/blog/issues/5)
@@ -145,46 +194,7 @@
 
 <br>
 
-## Python
-
-###### [安装Python（Linux／macOS／Windows）](https://github.com/FatliTalk/blog/issues/80)
-###### [Python编码风格](https://github.com/FatliTalk/blog/issues/86)
-###### [pip安装及使用](https://github.com/FatliTalk/blog/issues/87)
-###### [为Python项目建立虚拟环境](https://github.com/FatliTalk/blog/issues/85)
-###### [Python3数据类型](https://github.com/FatliTalk/blog/issues/81)
-###### [Python实参形参](https://github.com/FatliTalk/blog/issues/84)
-###### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
-###### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
-###### [Python字符串前加r ](https://github.com/FatliTalk/blog/issues/109)
-###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
-###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
-###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
-###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
-###### [浅谈Python多线程](https://github.com/FatliTalk/blog/issues/96)
-###### [使用Pygal库可视化Python获取的API数据](https://github.com/FatliTalk/blog/issues/98)
-###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
-###### [Python Requests（HTTP请求库）](https://github.com/FatliTalk/blog/issues/147)
-###### [使用ItChat库发微信信息](https://github.com/FatliTalk/blog/issues/110)
-###### [Python正则表达式](https://github.com/FatliTalk/blog/issues/117)
-###### [函数的回调和递归函数](https://github.com/FatliTalk/blog/issues/118)
-###### [Anaconda的安装及conda的使用](https://github.com/FatliTalk/blog/issues/119)
-###### [Linux 上安装 conda（miniconda）](https://github.com/FatliTalk/blog/issues/133)
-###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
-###### [Python发送邮件](https://github.com/FatliTalk/blog/issues/123)
-###### [Python读取PDF文档](https://github.com/FatliTalk/blog/issues/124)
-###### [Selenium Webdriver显式等待和隐式等待](https://github.com/FatliTalk/blog/issues/125)
-###### [Python词云wordcloud](https://github.com/FatliTalk/blog/issues/126)
-###### [Selenium+PhantomJS模拟登录](https://github.com/FatliTalk/blog/issues/127)
-###### [Selenium+Chrome模拟登录](https://github.com/FatliTalk/blog/issues/128)
-###### [部署Django项目](https://github.com/FatliTalk/blog/issues/137)
-###### [Django 项目配置 MySQL](https://github.com/FatliTalk/blog/issues/139)
-###### [Django 连接已存在的数据库（以 MySQL 为例）自动生成 models，并伪造数据库迁移](https://github.com/FatliTalk/blog/issues/143)
-###### [使用UUID库生成唯一ID](https://github.com/FatliTalk/blog/issues/140)
-###### [Python 定时任务框架 APScheduler](https://github.com/FatliTalk/blog/issues/149)
-
-<br>
-
-## MySQL
+## <a name="MySQL">MySQL</a>
 
 ###### [MySQL_1 初识MySQL数据库](https://github.com/FatliTalk/blog/issues/20)
 ###### [MySQL_2 创建MySQL数据库和表_DDL（CREATE）](https://github.com/FatliTalk/blog/issues/21)
@@ -200,7 +210,18 @@
 
 <br>
 
-## Linux
+## <a name="计算机网络">计算机网络</a>
+
+###### [TCP/IP基础](https://github.com/FatliTalk/blog/issues/47)
+###### [IP 地址的基础知识](https://github.com/FatliTalk/blog/issues/100)
+###### [HTTPS 和 SSL/TLS 协议](https://github.com/FatliTalk/blog/issues/40)
+###### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
+###### [HTTP状态码](https://github.com/FatliTalk/blog/issues/89)
+###### [macOS终端使用代理网络](https://github.com/FatliTalk/blog/issues/131)
+
+<br>
+
+## <a name="Linux">Linux</a>
 
 ###### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
 ###### [Wget](https://github.com/FatliTalk/blog/issues/60)
@@ -214,3 +235,4 @@
 ###### [Linux文件权限](https://github.com/FatliTalk/blog/issues/135)
 ###### [配置网站的IP地址到hosts中](https://github.com/FatliTalk/blog/issues/136)
 ###### [使用 Nginx 部署静态网站（含配置 HTTPS）](https://github.com/FatliTalk/blog/issues/141)
+
