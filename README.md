@@ -206,6 +206,7 @@
 ###### [常用 SQL 语句（ MySQL ）](https://github.com/FatliTalk/blog/issues/37)
 ###### [macOS安装／卸载MySQL 8.0.16](https://github.com/FatliTalk/blog/issues/121)
 ###### [macOS安装MySQL 5.7.28](https://github.com/FatliTalk/blog/issues/138)
+###### [Ubuntu 安装 MySQL 5.7](https://github.com/FatliTalk/blog/issues/151)
 ###### [MySQL的编码问题](https://github.com/FatliTalk/blog/issues/122)
 
 <br>
