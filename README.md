@@ -208,6 +208,7 @@
 ###### [macOS安装MySQL 5.7.28](https://github.com/FatliTalk/blog/issues/138)
 ###### [Ubuntu 安装 MySQL 5.7](https://github.com/FatliTalk/blog/issues/151)
 ###### [MySQL的编码问题](https://github.com/FatliTalk/blog/issues/122)
+###### [使用 cron 定时备份 MySQL 数据库（使用 Ubuntu 系统）](https://github.com/FatliTalk/blog/issues/153)
 
 <br>
 
