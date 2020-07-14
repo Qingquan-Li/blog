@@ -170,9 +170,9 @@
 
 ###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
 ###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
-###### [Selenium Webdriver显式等待和隐式等待](https://github.com/FatliTalk/blog/issues/125)
 ###### [Selenium+PhantomJS模拟登录](https://github.com/FatliTalk/blog/issues/127)
 ###### [Selenium+Chrome模拟登录](https://github.com/FatliTalk/blog/issues/128)
+###### [Selenium Webdriver显式等待和隐式等待](https://github.com/FatliTalk/blog/issues/125)
 
 <br>
 
