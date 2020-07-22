@@ -157,6 +157,7 @@
 
 ## <a name="Django 框架">Django 框架</a>
 
+###### [Django 常用命令](https://github.com/FatliTalk/blog/issues/154)
 ###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
 ###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
 ###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
