@@ -210,6 +210,7 @@
 ###### [Ubuntu 安装 MySQL 5.7 并设置被允许远程连接](https://github.com/FatliTalk/blog/issues/151)
 ###### [MySQL的编码问题](https://github.com/FatliTalk/blog/issues/122)
 ###### [使用 cron 定时备份 MySQL 数据库（使用 Ubuntu 系统）](https://github.com/FatliTalk/blog/issues/153)
+###### [Excel to MySQL 常用操作](https://github.com/FatliTalk/blog/issues/155)
 
 <br>
 
