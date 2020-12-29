@@ -102,7 +102,7 @@ function detail(id){
             });
 
             $('title').html(data.title + " | " + _config['blog_name']);
-            toggleDuoshuoComments('#container', id);
+            // toggleDuoshuoComments('#container', id);
             highlight();
         }
     });  
