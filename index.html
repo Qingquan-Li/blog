@@ -12,9 +12,11 @@
     <script src="js/ractive.min.js"></script>    
     <script src="js/marked.min.js"></script>    
     <script src="config.js"></script>
-<!--     <script src="http://static.duoshuo.com/embed.js"></script> -->
-<!--     <script src="http://apps.bdimg.com/libs/highlight.js/8.6/highlight.min.js"></script> -->
-    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.5.0/build/highlight.min.js"></script>
+    <!-- <script src="http://static.duoshuo.com/embed.js"></script> -->
+    <!-- <script src="http://apps.bdimg.com/libs/highlight.js/8.6/highlight.min.js"></script> -->
+    <!-- <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.5.0/build/highlight.min.js"></script> -->
+    <!-- 浏览器不允许在https页面里嵌入http的请求，否则会在浏览器控制台-Network中显示报错：(blocked:mixed-content)。解决方案：1.使用https的cdn资源；2.下载资源后本地加载资源 -->
+    <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.5.0/build/highlight.min.js"></script>
 </head>
 <body>
 <div id="header"><h1><a href="#/" class="blog_title">FatliTalk 李庆权的博客</a></h1>
