@@ -166,6 +166,7 @@
 ###### [Django 连接已存在的数据库（以 MySQL 为例）自动生成 models，并伪造数据库迁移](https://github.com/FatliTalk/blog/issues/143)
 ###### [简单使用 Gunicorn 托管 Django](https://github.com/FatliTalk/blog/issues/156)
 ###### [移除 Django 中的一个 app](https://github.com/FatliTalk/blog/issues/160)
+###### [Django filter→QuerySet get→Object](https://github.com/FatliTalk/blog/issues/161)
 
 <br>
 
