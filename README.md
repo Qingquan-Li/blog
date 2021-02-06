@@ -167,6 +167,7 @@
 ###### [简单使用 Gunicorn 托管 Django](https://github.com/FatliTalk/blog/issues/156)
 ###### [移除 Django 中的一个 app](https://github.com/FatliTalk/blog/issues/160)
 ###### [Django filter→QuerySet get→Object](https://github.com/FatliTalk/blog/issues/161)
+###### [Django设置伪外键（ForeignKey）](https://github.com/FatliTalk/blog/issues/162)
 
 <br>
 
