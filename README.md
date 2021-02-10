@@ -125,6 +125,7 @@
 ###### [git部署项目代码至服务器](https://github.com/FatliTalk/blog/issues/113)
 ###### [macOS更新git](https://github.com/FatliTalk/blog/issues/115)
 ###### [fork - PR 操作流程（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/144)
+###### [Git commit message格式规范](https://github.com/FatliTalk/blog/issues/164)
 
 <br>
 
