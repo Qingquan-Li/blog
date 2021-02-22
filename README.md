@@ -170,6 +170,7 @@
 ###### [移除 Django 中的一个 app](https://github.com/FatliTalk/blog/issues/160)
 ###### [Django filter→QuerySet get→Object](https://github.com/FatliTalk/blog/issues/161)
 ###### [Django设置伪外键（ForeignKey）](https://github.com/FatliTalk/blog/issues/162)
+###### [Django Cookies and Session](https://github.com/FatliTalk/blog/issues/165)
 
 <br>
 
