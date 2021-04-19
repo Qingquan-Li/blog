@@ -229,6 +229,7 @@
 ###### [HTTP 请求方法／状态码／错误处理／数据缓存](https://github.com/FatliTalk/blog/issues/75)
 ###### [HTTP状态码](https://github.com/FatliTalk/blog/issues/89)
 ###### [macOS终端使用代理网络](https://github.com/FatliTalk/blog/issues/131)
+###### [mtr 网络诊断工具](https://github.com/FatliTalk/blog/issues/166)
 
 <br>
 
@@ -250,4 +251,3 @@
 ###### [Linux 查看文件大小](https://github.com/FatliTalk/blog/issues/157)
 ###### [Debian 安装教程](https://github.com/FatliTalk/blog/issues/158)
 ###### [在 Debian 上安装和使用 openmediavault](https://github.com/FatliTalk/blog/issues/159)
-###### [mtr 网络诊断工具](https://github.com/FatliTalk/blog/issues/166)
