@@ -212,13 +212,14 @@
 ###### [MySQL_6 创建和使用索引](https://github.com/FatliTalk/blog/issues/25)
 ###### [MySQL_7 MySQL数据库备份与恢复](https://github.com/FatliTalk/blog/issues/26)
 ###### [常用 SQL 语句（ MySQL ）](https://github.com/FatliTalk/blog/issues/37)
+###### [漫画数据库-摘录：表格的规范化（使用第三范式）](https://github.com/FatliTalk/blog/issues/167)
+###### [漫画数据库-摘录：SQL的基本操作](https://github.com/FatliTalk/blog/issues/168)
 ###### [macOS安装／卸载MySQL 8.0.16](https://github.com/FatliTalk/blog/issues/121)
 ###### [macOS安装／连接MySQL 5.7.28](https://github.com/FatliTalk/blog/issues/138)
 ###### [Ubuntu 安装 MySQL 5.7 并设置被允许远程连接](https://github.com/FatliTalk/blog/issues/151)
 ###### [MySQL的编码问题](https://github.com/FatliTalk/blog/issues/122)
 ###### [使用 cron 定时备份 MySQL 数据库（使用 Ubuntu 系统）](https://github.com/FatliTalk/blog/issues/153)
 ###### [Excel to MySQL 常用操作](https://github.com/FatliTalk/blog/issues/155)
-###### [漫画数据库-摘录：表格的规范化（使用第三范式）](https://github.com/FatliTalk/blog/issues/167)
 
 <br>
 
