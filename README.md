@@ -218,6 +218,7 @@
 ###### [MySQL的编码问题](https://github.com/FatliTalk/blog/issues/122)
 ###### [使用 cron 定时备份 MySQL 数据库（使用 Ubuntu 系统）](https://github.com/FatliTalk/blog/issues/153)
 ###### [Excel to MySQL 常用操作](https://github.com/FatliTalk/blog/issues/155)
+###### [漫画数据库-摘录：表格的规范化（使用第三范式）](https://github.com/FatliTalk/blog/issues/167)
 
 <br>
 
