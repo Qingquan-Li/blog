@@ -142,7 +142,7 @@
 ###### [Python字符串前加r ](https://github.com/FatliTalk/blog/issues/109)
 ###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
 ###### [Python 多线程与 GIL](https://github.com/FatliTalk/blog/issues/96)
-###### [Python协程的简单使用](https://github.com/FatliTalk/blog/issues/169)
+###### [Python 协程](https://github.com/FatliTalk/blog/issues/169)
 ###### [使用Pygal库可视化Python获取的API数据](https://github.com/FatliTalk/blog/issues/98)
 ###### [Python Requests（HTTP请求库）](https://github.com/FatliTalk/blog/issues/147)
 ###### [使用ItChat库发微信信息](https://github.com/FatliTalk/blog/issues/110)
