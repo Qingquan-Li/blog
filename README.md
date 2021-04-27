@@ -154,6 +154,7 @@
 ###### [Python词云wordcloud](https://github.com/FatliTalk/blog/issues/126)
 ###### [使用UUID库生成唯一ID](https://github.com/FatliTalk/blog/issues/140)
 ###### [Python 定时任务框架 APScheduler](https://github.com/FatliTalk/blog/issues/149)
+###### [协程的简单使用（爬虫示例）](https://github.com/FatliTalk/blog/issues/169)
 
 <br>
 
