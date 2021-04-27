@@ -142,6 +142,7 @@
 ###### [Python字符串前加r ](https://github.com/FatliTalk/blog/issues/109)
 ###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
 ###### [Python 多线程与 GIL](https://github.com/FatliTalk/blog/issues/96)
+###### [Python协程的简单使用](https://github.com/FatliTalk/blog/issues/169)
 ###### [使用Pygal库可视化Python获取的API数据](https://github.com/FatliTalk/blog/issues/98)
 ###### [Python Requests（HTTP请求库）](https://github.com/FatliTalk/blog/issues/147)
 ###### [使用ItChat库发微信信息](https://github.com/FatliTalk/blog/issues/110)
@@ -154,7 +155,6 @@
 ###### [Python词云wordcloud](https://github.com/FatliTalk/blog/issues/126)
 ###### [使用UUID库生成唯一ID](https://github.com/FatliTalk/blog/issues/140)
 ###### [Python 定时任务框架 APScheduler](https://github.com/FatliTalk/blog/issues/149)
-###### [Python协程的简单使用（爬虫示例）](https://github.com/FatliTalk/blog/issues/169)
 
 <br>
 
