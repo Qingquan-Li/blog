@@ -20,6 +20,7 @@
 11. <a href="#MySQL">MySQL</a>
 12. <a href="#计算机网络">计算机网络</a>
 13. <a href="#Linux">Linux</a>
+14. <a href="#算法">算法</a>
 
 <br>
 
@@ -255,3 +256,9 @@
 ###### [Linux 查看文件大小](https://github.com/FatliTalk/blog/issues/157)
 ###### [Debian 安装教程](https://github.com/FatliTalk/blog/issues/158)
 ###### [在 Debian 上安装和使用 openmediavault](https://github.com/FatliTalk/blog/issues/159)
+
+<br>
+
+## <a name="算法">算法</a>
+
+###### [算法简介](https://github.com/FatliTalk/blog/issues/171)
