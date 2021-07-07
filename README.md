@@ -137,6 +137,7 @@
 ###### [pip安装及使用](https://github.com/FatliTalk/blog/issues/87)
 ###### [为Python项目建立虚拟环境](https://github.com/FatliTalk/blog/issues/85)
 ###### [Python3数据类型](https://github.com/FatliTalk/blog/issues/81)
+###### [Python元组和列表](https://github.com/FatliTalk/blog/issues/172)
 ###### [Python实参形参](https://github.com/FatliTalk/blog/issues/84)
 ###### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
 ###### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
