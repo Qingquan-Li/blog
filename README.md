@@ -177,6 +177,7 @@
 ###### [Django filter→QuerySet get→Object](https://github.com/FatliTalk/blog/issues/161)
 ###### [Django设置伪外键（ForeignKey）](https://github.com/FatliTalk/blog/issues/162)
 ###### [Django Cookies and Session](https://github.com/FatliTalk/blog/issues/165)
+###### [Django testing](https://github.com/FatliTalk/blog/issues/176)
 
 <br>
 
