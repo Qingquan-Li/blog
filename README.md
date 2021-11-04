@@ -119,6 +119,7 @@
 ###### [Git_7 提交历史（git log）](https://github.com/FatliTalk/blog/issues/67)
 ###### [Git_8 撤销操作（git commit --amend、git reset HEAD \<file>）](https://github.com/FatliTalk/blog/issues/68)
 ###### [Git_9 打标签（git tag）](https://github.com/FatliTalk/blog/issues/69)
+###### [Git branch management](https://github.com/FatliTalk/blog/issues/177)
 ###### [GitHub for Windows](https://github.com/FatliTalk/blog/issues/10)
 ###### [IntelliJ IDEA 提交代码到 GitHub](https://github.com/FatliTalk/blog/issues/11)
 ###### [GitHub Pages](https://github.com/FatliTalk/blog/issues/12)
@@ -129,7 +130,6 @@
 ###### [macOS更新git](https://github.com/FatliTalk/blog/issues/115)
 ###### [fork - PR 操作流程（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/144)
 ###### [Git commit message格式规范](https://github.com/FatliTalk/blog/issues/164)
-###### [Git branch management](https://github.com/FatliTalk/blog/issues/177)
 
 <br>
 
