@@ -253,7 +253,7 @@
 ###### [Screen命令行窗口管理器](https://github.com/FatliTalk/blog/issues/114)
 ###### [Linux常用查找命令](https://github.com/FatliTalk/blog/issues/116)
 ###### [SSH登录远程主机](https://github.com/FatliTalk/blog/issues/130)
-###### [使用scp与服务器传输文件](https://github.com/FatliTalk/blog/issues/132)
+###### [Transfer Files with Server: scp and sftp](https://github.com/FatliTalk/blog/issues/132)
 ###### [创建软链接](https://github.com/FatliTalk/blog/issues/134)
 ###### [Linux文件权限](https://github.com/FatliTalk/blog/issues/135)
 ###### [配置网站的IP地址到hosts中](https://github.com/FatliTalk/blog/issues/136)
