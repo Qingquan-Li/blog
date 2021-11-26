@@ -105,6 +105,7 @@
 ###### [JavaScript == vs ===](https://github.com/FatliTalk/blog/issues/145)
 ###### [JavaScript 同步回调／异步回调](https://github.com/FatliTalk/blog/issues/146)
 ###### [use Vue CLI to create a project](https://github.com/FatliTalk/blog/issues/174)
+###### [Ubuntu install Node.js](https://github.com/FatliTalk/blog/issues/179)
 
 <br>
 
