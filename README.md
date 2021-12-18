@@ -100,7 +100,7 @@
 ###### [JavaScript表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
 ###### [Javascript的this用法](https://github.com/FatliTalk/blog/issues/82)
 ###### [JavaScript中的标点符号（逗号、分号）](https://github.com/FatliTalk/blog/issues/92)
-###### [node安装](https://github.com/FatliTalk/blog/issues/103)
+###### [macOS安装及卸载Node.js](https://github.com/FatliTalk/blog/issues/103)
 ###### [npm 基础用法](https://github.com/FatliTalk/blog/issues/104)
 ###### [JavaScript == vs ===](https://github.com/FatliTalk/blog/issues/145)
 ###### [JavaScript 同步回调／异步回调](https://github.com/FatliTalk/blog/issues/146)
