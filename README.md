@@ -117,7 +117,7 @@
 ###### [Git_4 仓库初始化／克隆现有仓库（git init／clone、add、commit）](https://github.com/FatliTalk/blog/issues/64)
 ###### [Git_5 记录每次更新到仓库（git add、commit）](https://github.com/FatliTalk/blog/issues/65)
 ###### [Git_6 远程仓库的使用（以 GitHub 为例）（git init、remote、add、commit、push）](https://github.com/FatliTalk/blog/issues/66)
-###### [Git_7 提交历史（git log）](https://github.com/FatliTalk/blog/issues/67)
+###### [Git_7 提交历史（git log & git log --graph）](https://github.com/FatliTalk/blog/issues/67)
 ###### [Git_8 撤销操作（git commit --amend、git reset HEAD \<file>）](https://github.com/FatliTalk/blog/issues/68)
 ###### [Git_9 打标签（git tag）](https://github.com/FatliTalk/blog/issues/69)
 ###### [Git branch management](https://github.com/FatliTalk/blog/issues/177)
