@@ -2,14 +2,13 @@
 
 利用 Github 提供的 API 实现一个基于 GitHub Pages 的静态页面博客，具体思路如下：
 
-1.作者在 Github Issues 上写文章（写 Issues）
-2.博客页面通过 JS Ajax 请求 Github API 来获取文章内容，进行页面的渲染
-
-~~通过社会化评论插件实现评论功能~~
+1. 作者在 Github Issues 上写文章（写 Issues）
+2. 博客页面通过 JS Ajax 请求 Github API 来获取文章内容，进行页面的渲染
+3. ~~通过社会化评论插件实现评论功能~~
 
 Demo： http://FatliTalk.com
 
-[FatliTalk 李庆权的博客](https://qingquan-li.github.io/blog) 的内容是读取的 [FatliTalk blog 的 Issues](https://github.com/qingquan-li/blog/issues)
+[Qingquan's Blog](https://qingquan-li.github.io/blog) 的内容是读取的 [Qingquan-Li/blog 的 Issues](https://github.com/qingquan-li/blog/issues)
 
 ## 一、部署方法(方案1)
 
@@ -19,10 +18,10 @@ Demo： http://FatliTalk.com
 
 ```javascript
 var _config = {
-  blog_name : 'FatliTalk 李庆权的博客',  // 博客名称
-  owner: 'FatliTalk',           // GitHub 用户名
+  blog_name : "Qingquan's Blog",  // 博客名称
+  owner: 'Qingquan-Li',           // GitHub 用户名
   repo: 'blog',                 // 用于存放博客（Issues）的仓库名
-  duoshuo_id : 'FatliTalk',     // 在第三方评论插件多说申请站点的子域名名称
+  // duoshuo_id : 'FatliTalk',     // 在第三方评论插件多说申请站点的子域名名称
   // access_token: '填写令牌',   // 请求量大时需要在 GitHub 后台单独设置一个读取公开库的 token
   per_page: '15'                // 默认一页显示几篇文章
 }
@@ -42,10 +41,10 @@ var _config = {
 
 ```javascript
 var _config = {
-  blog_name : 'FatliTalk 李庆权的博客',  // 博客名称
-  owner: 'FatliTalk',           // GitHub 用户名
+  blog_name : "Qingquan's Blog",  // 博客名称
+  owner: 'Qingquan-Li',           // GitHub 用户名
   repo: 'blog',                 // 用于存放博客（Issues）的仓库名
-  duoshuo_id : 'FatliTalk',     // 在第三方评论插件多说申请站点的子域名名称
+  // duoshuo_id : 'FatliTalk',     // 在第三方评论插件多说申请站点的子域名名称
   // access_token: '填写令牌',   // 请求量大时需要在 GitHub 后台单独设置一个读取公开库的 token
   per_page: '15'                // 默认一页显示几篇文章
 }
