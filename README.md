@@ -1,4 +1,4 @@
-> [获取 GitHub Issues 的静态博客：](https://qingquan-li.github.io/blog) http://FatliTalk.com
+# 基于 GitHub Issues 的静态博客
 
 利用 Github 提供的 API 实现一个基于 GitHub Pages 的静态页面博客，具体思路如下：
 
@@ -6,9 +6,9 @@
 2. 博客页面通过 JS Ajax 请求 Github API 来获取文章内容，进行页面的渲染
 3. ~~通过社会化评论插件实现评论功能~~
 
-Demo： http://FatliTalk.com
+Demo：https://qingquan-li.github.io/blog
 
-[Qingquan's Blog](https://qingquan-li.github.io/blog) 的内容是读取的 [Qingquan-Li/blog 的 Issues](https://github.com/qingquan-li/blog/issues)
+https://qingquan-li.github.io/blog 的内容读取自 [Qingquan-Li/blog 的 Issues](https://github.com/qingquan-li/blog/issues)
 
 ## 一、部署方法(方案1)
 
