@@ -1,14 +1,15 @@
-> [获取 GitHub Issues 的静态博客：](https://FatliTalk.github.io/blog) http://FatliTalk.com
+> [获取 GitHub Issues 的静态博客：](https://qingquan-li.github.io/blog) http://FatliTalk.com
 
 利用 Github 提供的 API 实现一个基于 GitHub Pages 的静态页面博客，具体思路如下：
 
-1. 作者在 Github Issues 上写文章（写 Issues）
-2. 博客页面通过 JS Ajax 请求 Github API 来获取文章内容，进行页面的渲染
-3. 通过社会化评论插件实现评论功能
+1.作者在 Github Issues 上写文章（写 Issues）
+2.博客页面通过 JS Ajax 请求 Github API 来获取文章内容，进行页面的渲染
+
+~~通过社会化评论插件实现评论功能~~
 
 Demo： http://FatliTalk.com
 
-[FatliTalk 李庆权的博客](https://FatliTalk.github.io/blog) 的内容是读取的 [FatliTalk blog 的 Issues](https://github.com/FatliTalk/blog/issues)
+[FatliTalk 李庆权的博客](https://qingquan-li.github.io/blog) 的内容是读取的 [FatliTalk blog 的 Issues](https://github.com/qingquan-li/blog/issues)
 
 ## 一、部署方法(方案1)
 
@@ -29,9 +30,9 @@ var _config = {
 
 ③ 保存后即可通过 `http://用户名.github.io/blog` 即可访问
 
-注意：至少得有一次提交， [GitHub Pages](https://github.com/FatliTalk/blog/issues/12) 功能才会生效，直接 Fork 没有任何修改是不行的。
+注意：至少得有一次提交， [GitHub Pages](https://github.com/qingquan-li/blog/issues/12) 功能才会生效，直接 Fork 没有任何修改是不行的。
 
-如果你想绑定独立域名：修改根目录的 CNAME 文件，将其中的网址修改为你的域名，并把你的域名放在域名解析商进行解析，即可使用你的域名进行访问。参考： https://github.com/FatliTalk/blog/issues/12
+如果你想绑定独立域名：修改根目录的 CNAME 文件，将其中的网址修改为你的域名，并把你的域名放在域名解析商进行解析，即可使用你的域名进行访问。参考： https://github.com/qingquan-li/blog/issues/12
 
 ## 二、部署方法(方案2)
 
