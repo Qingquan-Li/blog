@@ -8,7 +8,7 @@
 
 Demo：https://qingquan-li.github.io/blog
 
-https://qingquan-li.github.io/blog 的内容读取自 [Qingquan-Li/blog 的 Issues](https://github.com/qingquan-li/blog/issues)
+qingquan-li.github.io/blog 的内容读取自 github.com/qingquan-li/blog/issues
 
 ## 一、部署方法(方案1)
 
