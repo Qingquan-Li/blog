@@ -170,7 +170,7 @@
 ###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
 ###### [实现一个基于 Django 的动态加载数据的简单博客页面](https://github.com/FatliTalk/blog/issues/74)
 ###### [局域网／外网访问 Django 项目](https://github.com/FatliTalk/blog/issues/76)
-###### [部署Django项目](https://github.com/FatliTalk/blog/issues/137)
+###### [部署Django项目（Ubuntu + conda + uWSGI + Nginx）](https://github.com/FatliTalk/blog/issues/137)
 ###### [Django 项目配置 MySQL](https://github.com/FatliTalk/blog/issues/139)
 ###### [Django 连接已存在的数据库（以 MySQL 为例）自动生成 models，并伪造数据库迁移](https://github.com/FatliTalk/blog/issues/143)
 ###### [简单使用 Gunicorn 托管 Django](https://github.com/FatliTalk/blog/issues/156)
