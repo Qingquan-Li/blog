@@ -9,7 +9,7 @@
 1. <a href="#随笔">随笔</a>
 2. <a href="#Markdown">Markdown</a>
 3. <a href="#设计">设计</a>
-4. <a href="#前端技术">前端技术</a>
+4. <a href="#HTML/CSS">HTML/CSS</a>
 5. <a href="#JavaScript">JavaScript</a>
 6. <a href="#Git">Git</a>
 7. <a href="#Python 基础">Python 基础</a>
@@ -75,7 +75,7 @@
 
 <br>
 
-## <a name="前端技术">前端技术</a>
+## <a name="HTML/CSS">HTML/CSS</a>
 
 ###### [HTML+CSS 知识结构梳理](https://github.com/FatliTalk/blog/issues/29)
 ###### [HTML_1 HTML基础](https://github.com/FatliTalk/blog/issues/17)
