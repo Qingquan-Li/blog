@@ -145,6 +145,8 @@
 ###### [单引号、双引号和三双引号的区别](https://github.com/FatliTalk/blog/issues/48)
 ###### [Python 字符串格式化 (%操作符) ](https://github.com/FatliTalk/blog/issues/49)
 ###### [Python字符串前加r ](https://github.com/FatliTalk/blog/issues/109)
+###### [Python identity operators: "is" and "is not"](https://github.com/FatliTalk/blog/issues/180)
+###### [Python operators precedence rules](https://github.com/FatliTalk/blog/issues/181)
 ###### [图像识别：简单的从一张图片中识别出中文（Tesseract）](https://github.com/FatliTalk/blog/issues/71)
 ###### [Python 多线程与 GIL](https://github.com/FatliTalk/blog/issues/96)
 ###### [Python 协程](https://github.com/FatliTalk/blog/issues/169)
@@ -161,7 +163,6 @@
 ###### [使用UUID库生成唯一ID](https://github.com/FatliTalk/blog/issues/140)
 ###### [Python 定时任务框架 APScheduler](https://github.com/FatliTalk/blog/issues/149)
 ###### [一行Python命令搭建HTTP服务](https://github.com/FatliTalk/blog/issues/170)
-###### [Python identity operators: "is" and "is not"](https://github.com/FatliTalk/blog/issues/180)
 
 <br>
 
