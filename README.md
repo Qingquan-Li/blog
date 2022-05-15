@@ -275,3 +275,4 @@
 
 ###### [算法简介](https://github.com/FatliTalk/blog/issues/171)
 ###### [Breadth-First Search](https://github.com/FatliTalk/blog/issues/185)
+###### [Greedy Algorithms](https://github.com/FatliTalk/blog/issues/186)
