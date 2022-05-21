@@ -19,7 +19,7 @@
 11. <a href="#MySQL">MySQL</a>
 12. <a href="#计算机网络">计算机网络</a>
 13. <a href="#Linux">Linux</a>
-14. <a href="#算法">算法</a>
+14. <a href="#Algorithms">Algorithms</a>
 
 <br>
 
@@ -271,7 +271,7 @@
 
 <br>
 
-## <a name="算法">算法</a>
+## <a name="Algorithms">Algorithms</a>
 
 ###### [算法简介](https://github.com/FatliTalk/blog/issues/171)
 ###### [Breadth-First Search](https://github.com/FatliTalk/blog/issues/185)
