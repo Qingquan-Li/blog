@@ -1,23 +1,23 @@
 # Qingquan's Blog
 
-> 博文写在 [Issues](https://github.com/Qingquan-Li/blog/issues) 里。版权声明： [署名-非商业性使用-禁止演绎 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 <br>
 
 ## 目录：
 
-1. <a href="#随笔">随笔</a>
+1. <a href="#Essay">Essay</a>
 2. <a href="#Markdown">Markdown</a>
-3. <a href="#设计">设计</a>
+3. <a href="#Design">Design</a>
 4. <a href="#HTML/CSS">HTML/CSS</a>
 5. <a href="#JavaScript">JavaScript</a>
 6. <a href="#Git">Git</a>
-7. <a href="#Python 基础">Python 基础</a>
-8. <a href="#Django 框架">Django 框架</a>
-9. <a href="#Python 网络数据采集">Python 网络数据采集</a>
+7. <a href="#Python">Python</a>
+8. <a href="#Django">Django</a>
+9. <a href="#Python Web Scraping">Python Web Scraping</a>
 10. <a href="#Java">Java</a>
 11. <a href="#MySQL">MySQL</a>
-12. <a href="#计算机网络">计算机网络</a>
+12. <a href="#Network">Network</a>
 13. <a href="#Linux">Linux</a>
 14. <a href="#Algorithms">Algorithms</a>
 
@@ -25,7 +25,7 @@
 
 <br>
 
-## <a name="随笔">随笔</a>
+## <a name="Essay">Essay</a>
 
 ###### [Why GitHub Issues?](https://github.com/FatliTalk/blog/issues/1)
 ###### [程序员为什么不会修电脑？](https://github.com/FatliTalk/blog/issues/4)
@@ -68,7 +68,7 @@
 
 <br>
 
-## <a name="设计">设计</a>
+## <a name="Design">Design</a>
 
 ###### [分辨率相关：屏幕尺寸、px、pt、em，物理像素和逻辑像素，以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
 ###### [《写给大家看的设计书》读书笔记](https://github.com/FatliTalk/blog/issues/107)
@@ -135,7 +135,7 @@
 
 <br>
 
-## <a name="Python 基础">Python 基础</a>
+## <a name="Python">Python</a>
 
 ###### [安装Python（Linux／macOS／Windows）](https://github.com/FatliTalk/blog/issues/80)
 ###### [Python编码风格](https://github.com/FatliTalk/blog/issues/86)
@@ -170,7 +170,7 @@
 
 <br>
 
-## <a name="Django 框架">Django 框架</a>
+## <a name="Django">Django</a>
 
 ###### [Django 常用命令](https://github.com/FatliTalk/blog/issues/154)
 ###### [理解 Django 的 MTV 模式：创建一个简单页面](https://github.com/FatliTalk/blog/issues/73)
@@ -188,7 +188,7 @@
 
 <br>
 
-## <a name="Python 网络数据采集">Python 网络数据采集</a>
+## <a name="Python Web Scraping">Python Web Scraping</a>
 
 ###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
 ###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
@@ -238,7 +238,7 @@
 
 <br>
 
-## <a name="计算机网络">计算机网络</a>
+## <a name="Network">Network</a>
 
 ###### [TCP/IP基础](https://github.com/FatliTalk/blog/issues/47)
 ###### [IP 地址的基础知识](https://github.com/FatliTalk/blog/issues/100)
