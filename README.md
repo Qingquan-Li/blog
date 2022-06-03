@@ -16,7 +16,7 @@
 8. <a href="#Django">Django</a>
 9. <a href="#Python Web Scraping">Python Web Scraping</a>
 10. <a href="#Java">Java</a>
-11. <a href="C++">C++</a>
+11. <a href="#C++">C++</a>
 12. <a href="#MySQL">MySQL</a>
 13. <a href="#Network">Network</a>
 14. <a href="#Linux">Linux</a>
