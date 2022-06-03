@@ -16,10 +16,11 @@
 8. <a href="#Django">Django</a>
 9. <a href="#Python Web Scraping">Python Web Scraping</a>
 10. <a href="#Java">Java</a>
-11. <a href="#MySQL">MySQL</a>
-12. <a href="#Network">Network</a>
-13. <a href="#Linux">Linux</a>
-14. <a href="#Algorithms">Algorithms</a>
+11. <a href="C++">C++</a>
+12. <a href="#MySQL">MySQL</a>
+13. <a href="#Network">Network</a>
+14. <a href="#Linux">Linux</a>
+15. <a href="#Algorithms">Algorithms</a>
 
 <br>
 
@@ -213,6 +214,12 @@
 ###### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
 ###### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
 ###### [VS Code 创建 Maven 项目](https://github.com/FatliTalk/blog/issues/148)
+
+<br>
+
+## <a name="C++">C++</a>
+
+###### [C++ Formatting Output: setprecision, fixed and showpoint Manipulator](https://github.com/FatliTalk/blog/issues/188)
 
 <br>
 
