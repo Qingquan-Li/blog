@@ -220,7 +220,7 @@
 ## <a name="C++">C++</a>
 
 ###### [C++ Formatting Output: setprecision, fixed and showpoint Manipulator](https://github.com/FatliTalk/blog/issues/188)
-###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/188)
+###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/189)
 
 <br>
 
