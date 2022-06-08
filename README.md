@@ -221,6 +221,7 @@
 
 ###### [C++ Formatting Output: setprecision, fixed and showpoint Manipulator](https://github.com/FatliTalk/blog/issues/188)
 ###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/189)
+###### [C++: Check data type](https://github.com/FatliTalk/blog/issues/190)
 
 <br>
 
