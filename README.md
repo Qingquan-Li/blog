@@ -223,6 +223,7 @@
 ###### [C++: Check data type](https://github.com/FatliTalk/blog/issues/190)
 ###### [C++ Formatting Output: setprecision, fixed and showpoint Manipulator](https://github.com/FatliTalk/blog/issues/188)
 ###### [C++: Working with Characters and string Objects: get line, cin.get, cin.ignore](https://github.com/FatliTalk/blog/issues/191)
+###### [C++ Conditional Operator (Ternary Operator)](https://github.com/FatliTalk/blog/issues/193)
 
 <br>
 
