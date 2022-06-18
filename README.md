@@ -224,6 +224,8 @@
 ###### [C++ Formatting Output: setprecision, fixed and showpoint Manipulator](https://github.com/FatliTalk/blog/issues/188)
 ###### [C++: Working with Characters and string Objects: get line, cin.get, cin.ignore](https://github.com/FatliTalk/blog/issues/191)
 ###### [C++ Conditional Operator (Ternary Operator)](https://github.com/FatliTalk/blog/issues/192)
+###### [C++ Sentinels](https://github.com/FatliTalk/blog/issues/193)
+###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
 
 <br>
 
