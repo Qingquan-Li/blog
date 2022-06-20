@@ -4,7 +4,7 @@
 
 <br>
 
-## Table of Contents:
+## Contents at a Glance:
 
 1. <a href="#Essay">Essay</a>
 2. <a href="#Markdown">Markdown</a>
