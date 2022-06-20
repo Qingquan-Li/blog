@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# A blog based on GitHub Issues and React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Blog posts are hosted on GitHub Issues;
+The blog website is rendered by React.js.
+
+## Render
+
+- [React](https://github.com/facebook/react)
+- [react-markdown](https://github.com/remarkjs/react-markdown)
+
+## HTTP Request
+
+- [Axios](https://axios-http.com/)
+
+## Deployment
+
+- [GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages)
+
+---
 
 ## Available Scripts
 
