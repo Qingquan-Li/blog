@@ -226,8 +226,9 @@
 ###### [C++ Conditional Operator (Ternary Operator)](https://github.com/FatliTalk/blog/issues/192)
 ###### [C++ Sentinels](https://github.com/FatliTalk/blog/issues/193)
 ###### [C++ for-loop, while-loop and do-while-loop](https://github.com/FatliTalk/blog/issues/195)
-###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
 ###### [C++ Random Numbers](https://github.com/FatliTalk/blog/issues/196)
+###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
+###### [C++ Using Reference Variables as Function Parameters](https://github.com/FatliTalk/blog/issues/197)
 
 <br>
 
