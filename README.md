@@ -230,6 +230,7 @@
 ###### [C++ Random Numbers](https://github.com/FatliTalk/blog/issues/196)
 ###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
 ###### [C++ Using Reference Variables as Function Parameters](https://github.com/FatliTalk/blog/issues/197)
+###### [C++ Arrays](https://github.com/FatliTalk/blog/issues/199)
 
 <br>
 
