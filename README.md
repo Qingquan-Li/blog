@@ -231,6 +231,8 @@
 ###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
 ###### [C++ Using Reference Variables as Function Parameters](https://github.com/FatliTalk/blog/issues/197)
 ###### [C++ Arrays](https://github.com/FatliTalk/blog/issues/199)
+###### [C++: The Range-Based for Loop](https://github.com/FatliTalk/blog/issues/200)
+###### [C++: Arrays as Function Arguments](https://github.com/FatliTalk/blog/issues/201)
 
 <br>
 
