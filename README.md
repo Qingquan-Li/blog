@@ -233,7 +233,7 @@
 ###### [C++ Arrays](https://github.com/FatliTalk/blog/issues/199)
 ###### [C++: The Range-Based for Loop](https://github.com/FatliTalk/blog/issues/200)
 ###### [C++: Arrays as Function Arguments](https://github.com/FatliTalk/blog/issues/201)
-###### [C++ Rwo-Dimensional Arrays](https://github.com/FatliTalk/blog/issues/202)
+###### [C++ Two-Dimensional Arrays](https://github.com/FatliTalk/blog/issues/202)
 
 <br>
 
