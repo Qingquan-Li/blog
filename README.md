@@ -11,12 +11,12 @@
 3. <a href="#Design">Design</a>
 4. <a href="#HTML/CSS">HTML/CSS</a>
 5. <a href="#JavaScript">JavaScript</a>
-6. <a href="#Git">Git</a>
-7. <a href="#Python">Python</a>
-8. <a href="#Django">Django</a>
-9. <a href="#Python Web Scraping">Python Web Scraping</a>
-10. <a href="#Java">Java</a>
-11. <a href="#C++">C++</a>
+6. <a href="#Python">Python</a>
+7. <a href="#Django">Django</a>
+8. <a href="#Python Web Scraping">Python Web Scraping</a>
+9. <a href="#Java">Java</a>
+10. <a href="#C++">C++</a>
+11. <a href="#Git">Git</a>
 12. <a href="#MySQL">MySQL</a>
 13. <a href="#Network">Network</a>
 14. <a href="#Linux">Linux</a>
@@ -231,7 +231,7 @@
 ###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
 ###### [C++ Using Reference Variables as Function Parameters](https://github.com/FatliTalk/blog/issues/197)
 ###### [C++ Arrays](https://github.com/FatliTalk/blog/issues/199)
-###### [C++: The Range-Based for Loop](https://github.com/FatliTalk/blog/issues/200)
+###### [C++: The Range-Based for Loop (iterate through an array)](https://github.com/FatliTalk/blog/issues/200)
 ###### [C++: Arrays as Function Arguments](https://github.com/FatliTalk/blog/issues/201)
 ###### [C++ Two-Dimensional Arrays](https://github.com/FatliTalk/blog/issues/202)
 
