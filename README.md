@@ -236,7 +236,11 @@
 ###### [C++: The Range-Based for Loop (iterate through an array)](https://github.com/FatliTalk/blog/issues/200)
 ###### [C++: Arrays as Function Arguments](https://github.com/FatliTalk/blog/issues/201)
 ###### [C++ Two-Dimensional Arrays](https://github.com/FatliTalk/blog/issues/202)
-###### [C++ Pointers](https://github.com/FatliTalk/blog/issues/205)
+###### [C++ Pointers Basic](https://github.com/FatliTalk/blog/issues/205)
+###### [C++: The Relationship between Arrays and Pointers](https://github.com/FatliTalk/blog/issues/207)
+###### [C++: Pointers as Function Parameters](https://github.com/FatliTalk/blog/issues/208)
+###### [C++ Dynamic Memory Allocation](https://github.com/FatliTalk/blog/issues/209)
+###### [C++: Returning Pointers from Functions](https://github.com/FatliTalk/blog/issues/210)
 ###### [C++ Recursion](https://github.com/FatliTalk/blog/issues/204)
 
 <br>
