@@ -241,6 +241,7 @@
 ###### [C++: Pointers as Function Parameters](https://github.com/FatliTalk/blog/issues/208)
 ###### [C++ Dynamic Memory Allocation](https://github.com/FatliTalk/blog/issues/209)
 ###### [C++: Returning Pointers from Functions](https://github.com/FatliTalk/blog/issues/210)
+###### [C++ Abstract Data Types](https://github.com/FatliTalk/blog/issues/211)
 ###### [C++ Recursion](https://github.com/FatliTalk/blog/issues/204)
 
 <br>
