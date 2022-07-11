@@ -241,6 +241,7 @@
 ###### [C++: Pointers as Function Parameters](https://github.com/FatliTalk/blog/issues/208)
 ###### [C++ Dynamic Memory Allocation](https://github.com/FatliTalk/blog/issues/209)
 ###### [C++: Returning Pointers from Functions](https://github.com/FatliTalk/blog/issues/210)
+###### [C++: C-Strings](https://github.com/FatliTalk/blog/issues/214)
 ###### [C++ Structured Data](https://github.com/FatliTalk/blog/issues/213)
 ###### [C++: Two Examples of Structured Data](https://github.com/FatliTalk/blog/issues/211)
 ###### [C++ Separating Class Specification from Implementation](https://github.com/FatliTalk/blog/issues/212)
