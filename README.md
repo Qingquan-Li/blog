@@ -245,8 +245,9 @@
 ###### [C++: C-Strings](https://github.com/FatliTalk/blog/issues/214)
 ###### [C++ Structured Data](https://github.com/FatliTalk/blog/issues/213)
 ###### [C++: Two Examples of Structured Data](https://github.com/FatliTalk/blog/issues/211)
-###### [C++ Constructors](https://github.com/FatliTalk/blog/issues/216)
 ###### [C++ Separating Class Specification from Implementation](https://github.com/FatliTalk/blog/issues/212)
+###### [C++ Constructors](https://github.com/FatliTalk/blog/issues/216)
+###### [C++ Destructors](https://github.com/FatliTalk/blog/issues/218)
 ###### [C++ Recursion](https://github.com/FatliTalk/blog/issues/204)
 
 <br>
