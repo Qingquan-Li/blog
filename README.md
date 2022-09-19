@@ -233,7 +233,7 @@
 ###### [C++ Overloading Functions](https://github.com/FatliTalk/blog/issues/203)
 ###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
 ###### [C++ Using Reference Variables as Function Parameters](https://github.com/FatliTalk/blog/issues/197)
-###### [C++ Arrays](https://github.com/FatliTalk/blog/issues/199)
+###### [C++ Arrays and the memory size of the data type](https://github.com/FatliTalk/blog/issues/199)
 ###### [C++: The Range-Based for Loop (iterate through an array)](https://github.com/FatliTalk/blog/issues/200)
 ###### [C++: Arrays as Function Arguments](https://github.com/FatliTalk/blog/issues/201)
 ###### [C++ Two-Dimensional Arrays](https://github.com/FatliTalk/blog/issues/202)
