@@ -249,7 +249,7 @@
 ###### [C++ Structured Data](https://github.com/FatliTalk/blog/issues/213)
 ###### [C++: Two Examples of Structured Data](https://github.com/FatliTalk/blog/issues/211)
 ###### [C++ Separating Class Specification from Implementation](https://github.com/FatliTalk/blog/issues/212)
-###### [C++ Class Example: GameTeam](https://github.com/FatliTalk/blog/issues/223)
+###### [C++ Class with Pointer and Reference Example: GameTeam](https://github.com/FatliTalk/blog/issues/223)
 ###### [C++ Class Collaborations and UML Diagram](https://github.com/FatliTalk/blog/issues/219)
 ###### [C++ Constructors](https://github.com/FatliTalk/blog/issues/216)
 ###### [C++ Destructors](https://github.com/FatliTalk/blog/issues/218)
