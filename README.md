@@ -13,9 +13,9 @@
 5. <a href="#JavaScript">JavaScript</a>
 6. <a href="#Python">Python</a>
 7. <a href="#Django">Django</a>
-8. <a href="#PythonWebScraping">Python Web Scraping</a>
+8. <a href="#Python-Web-Scraping">Python Web Scraping</a>
 9. <a href="#Java">Java</a>
-10. <a href="#CPlusPlus">C++</a>
+10. <a href="#cpp">C++</a>
 11. <a href="#Git">Git</a>
 12. <a href="#MySQL">MySQL</a>
 13. <a href="#Network">Network</a>
@@ -191,7 +191,7 @@
 
 <br>
 
-## <a name="PythonWebScraping">Python Web Scraping</a>
+## <a name="Python-Web-Scraping">Python Web Scraping</a>
 
 ###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
 ###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
@@ -219,7 +219,7 @@
 
 <br>
 
-## <a name="CPlusPlus">C++</a>
+## <a name="cpp">C++</a>
 
 ###### [The process of translating a C++ source file to an executable file](https://github.com/FatliTalk/blog/issues/217)
 ###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/189)
