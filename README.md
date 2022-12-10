@@ -15,7 +15,7 @@
 7. <a href="#Django">Django</a>
 8. <a href="#Python Web Scraping">Python Web Scraping</a>
 9. <a href="#Java">Java</a>
-10. <a href="#C++">C++</a>
+10. <a href="#cpp">C++</a>
 11. <a href="#Git">Git</a>
 12. <a href="#MySQL">MySQL</a>
 13. <a href="#Network">Network</a>
@@ -219,7 +219,7 @@
 
 <br>
 
-## <a name="C++">C++</a>
+## <a name="cpp">C++</a>
 
 ###### [The process of translating a C++ source file to an executable file](https://github.com/FatliTalk/blog/issues/217)
 ###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/189)
