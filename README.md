@@ -9,13 +9,13 @@
 1. <a href="#Essay">Essay</a>
 2. <a href="#Markdown">Markdown</a>
 3. <a href="#Design">Design</a>
-4. <a href="#HTML/CSS">HTML/CSS</a>
+4. <a href="#HTMLCSS">HTML/CSS</a>
 5. <a href="#JavaScript">JavaScript</a>
 6. <a href="#Python">Python</a>
 7. <a href="#Django">Django</a>
-8. <a href="#Python Web Scraping">Python Web Scraping</a>
+8. <a href="#PythonWebScraping">Python Web Scraping</a>
 9. <a href="#Java">Java</a>
-10. <a href="#cpp">C++</a>
+10. <a href="#CPlusPlus">C++</a>
 11. <a href="#Git">Git</a>
 12. <a href="#MySQL">MySQL</a>
 13. <a href="#Network">Network</a>
@@ -77,7 +77,7 @@
 
 <br>
 
-## <a name="HTML/CSS">HTML/CSS</a>
+## <a name="HTMLCSS">HTML/CSS</a>
 
 ###### [HTML+CSS 知识结构梳理](https://github.com/FatliTalk/blog/issues/29)
 ###### [HTML_1 HTML基础](https://github.com/FatliTalk/blog/issues/17)
@@ -191,7 +191,7 @@
 
 <br>
 
-## <a name="Python Web Scraping">Python Web Scraping</a>
+## <a name="PythonWebScraping">Python Web Scraping</a>
 
 ###### [使用BeautifulSoup库爬取新闻标题](https://github.com/FatliTalk/blog/issues/108)
 ###### [macOS安装Scrapy](https://github.com/FatliTalk/blog/issues/120)
@@ -219,7 +219,7 @@
 
 <br>
 
-## <a name="cpp">C++</a>
+## <a name="CPlusPlus">C++</a>
 
 ###### [The process of translating a C++ source file to an executable file](https://github.com/FatliTalk/blog/issues/217)
 ###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/189)
