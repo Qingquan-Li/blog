@@ -252,6 +252,7 @@
 ###### [C++ Separating Class Specification from Implementation](https://github.com/FatliTalk/blog/issues/212)
 ###### [C++ Class with Pointer and Reference Example: GameTeam](https://github.com/FatliTalk/blog/issues/223)
 ###### [C++ Class Collaborations and UML Diagram](https://github.com/FatliTalk/blog/issues/219)
+###### [C++ Class Aggregation](https://github.com/FatliTalk/blog/issues/225)
 ###### [C++ Constructors](https://github.com/FatliTalk/blog/issues/216)
 ###### [C++ Destructors](https://github.com/FatliTalk/blog/issues/218)
 ###### [C++ Recursion](https://github.com/FatliTalk/blog/issues/204)
