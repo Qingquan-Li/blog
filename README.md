@@ -232,7 +232,7 @@
 ###### [What is the difference between i++ and ++i in C++?](https://github.com/FatliTalk/blog/issues/206)
 ###### [C++ Using Files for Data Storage: Output and Input](https://github.com/FatliTalk/blog/issues/198)
 ###### [C++ File Operations](https://github.com/FatliTalk/blog/issues/224)
-###### [Passing File Stream Objects to Functions](https://github.com/FatliTalk/blog/issues/224)
+###### [Passing File Stream Objects to Functions](https://github.com/FatliTalk/blog/issues/226)
 ###### [C++ Random Numbers](https://github.com/FatliTalk/blog/issues/196)
 ###### [C++ Overloading Functions](https://github.com/FatliTalk/blog/issues/203)
 ###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
