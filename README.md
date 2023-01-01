@@ -298,6 +298,7 @@
 ## <a name="Linux">Linux</a>
 
 ###### [Vi 或 Vim 基础](https://github.com/FatliTalk/blog/issues/51)
+###### [Vim Basic](https://github.com/FatliTalk/blog/issues/228)
 ###### [Wget](https://github.com/FatliTalk/blog/issues/60)
 ###### [cURL](https://github.com/FatliTalk/blog/issues/97)
 ###### [macOS上用VMWare虚拟机安装Ubuntu](https://github.com/FatliTalk/blog/issues/111)
