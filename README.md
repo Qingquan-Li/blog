@@ -188,6 +188,7 @@
 ###### [Django设置伪外键（ForeignKey）](https://github.com/FatliTalk/blog/issues/162)
 ###### [Django Cookies and Session](https://github.com/FatliTalk/blog/issues/165)
 ###### [Django testing](https://github.com/FatliTalk/blog/issues/176)
+###### [Config PostgreSQL for Django on Ubuntu](https://github.com/FatliTalk/blog/issues/230)
 
 <br>
 
