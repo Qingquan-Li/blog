@@ -6,7 +6,7 @@
 
 ## Contents at a Glance:
 
-1. <a href="#Essay">Essay</a>
+1. <a href="#Others">Others</a>
 2. <a href="#Markdown">Markdown</a>
 3. <a href="#Design">Design</a>
 4. <a href="#HTMLCSS">HTML/CSS</a>
@@ -26,17 +26,13 @@
 
 <br>
 
-## <a name="Essay">Essay</a>
+## <a name="Others">Others</a>
 
 ###### [Why GitHub Issues?](https://github.com/FatliTalk/blog/issues/1)
-###### [程序员为什么不会修电脑？](https://github.com/FatliTalk/blog/issues/4)
 ###### [番茄工作法](https://github.com/FatliTalk/blog/issues/7)
-###### [初到美国是怎样的感觉？](https://github.com/FatliTalk/blog/issues/8)
-###### [美国高中的兼职——实验室助理](https://github.com/FatliTalk/blog/issues/9)
 ###### [博弈论](https://github.com/FatliTalk/blog/issues/14)
 ###### [二进制](https://github.com/FatliTalk/blog/issues/15)
 ###### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
-###### [百度网盘_恢复下载失败的文件](https://github.com/FatliTalk/blog/issues/46)
 ###### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
 ###### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
 ###### [Anna Quindlen 的《不曾走过，怎会懂得》](https://github.com/FatliTalk/blog/issues/53)
@@ -58,6 +54,7 @@
 ###### [FFmpeg 音视频转码命令](https://github.com/FatliTalk/blog/issues/105)
 ###### [搜索引擎-搜索技巧](https://github.com/FatliTalk/blog/issues/163)
 ###### [Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/FatliTalk/blog/issues/182)
+###### [Signed binary numbers: Two's complement](https://github.com/FatliTalk/blog/issues/231)
 
 <br>
 
