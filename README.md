@@ -46,7 +46,6 @@
 ###### [Mac 终端文件目录树状(tree)显示](https://github.com/FatliTalk/blog/issues/72)
 ###### [2017年终总结](https://github.com/FatliTalk/blog/issues/77)
 ###### [《无问西东》台词摘录](https://github.com/FatliTalk/blog/issues/78)
-###### [共享经济这么火，为什么“人的共享”一直没有大爆发？](https://github.com/FatliTalk/blog/issues/79)
 ###### [《人类简史》摘录](https://github.com/FatliTalk/blog/issues/83)
 ###### [LCD、OLED等显示器基础知识](https://github.com/FatliTalk/blog/issues/95)
 ###### [英语音标](https://github.com/FatliTalk/blog/issues/99)
