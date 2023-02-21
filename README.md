@@ -32,6 +32,7 @@
 ###### [番茄工作法](https://github.com/FatliTalk/blog/issues/7)
 ###### [博弈论](https://github.com/FatliTalk/blog/issues/14)
 ###### [二进制](https://github.com/FatliTalk/blog/issues/15)
+###### [General number bases (binary, octal, decimal, hex...)](https://github.com/FatliTalk/blog/issues/232)
 ###### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
 ###### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
 ###### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
