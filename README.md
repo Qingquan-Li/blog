@@ -33,6 +33,8 @@
 ###### [博弈论](https://github.com/FatliTalk/blog/issues/14)
 ###### [二进制](https://github.com/FatliTalk/blog/issues/15)
 ###### [General number bases (binary, octal, decimal, hex...)](https://github.com/FatliTalk/blog/issues/232)
+###### [Signed binary numbers: Two's complement](https://github.com/FatliTalk/blog/issues/231)
+###### [Binary floating-point numbers](https://github.com/FatliTalk/blog/issues/232)
 ###### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
 ###### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
 ###### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
@@ -54,7 +56,6 @@
 ###### [FFmpeg 音视频转码命令](https://github.com/FatliTalk/blog/issues/105)
 ###### [搜索引擎-搜索技巧](https://github.com/FatliTalk/blog/issues/163)
 ###### [Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/FatliTalk/blog/issues/182)
-###### [Signed binary numbers: Two's complement](https://github.com/FatliTalk/blog/issues/231)
 
 <br>
 
