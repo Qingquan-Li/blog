@@ -34,7 +34,7 @@
 ###### [二进制](https://github.com/FatliTalk/blog/issues/15)
 ###### [General number bases (binary, octal, decimal, hex...)](https://github.com/FatliTalk/blog/issues/232)
 ###### [Signed binary numbers: Two's complement](https://github.com/FatliTalk/blog/issues/231)
-###### [Binary floating-point numbers](https://github.com/FatliTalk/blog/issues/232)
+###### [Binary floating-point numbers](https://github.com/FatliTalk/blog/issues/233)
 ###### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
 ###### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
 ###### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
