@@ -327,3 +327,4 @@
 ###### [Greedy Algorithms (Travelling Salesperson Problem. Python)](https://github.com/FatliTalk/blog/issues/186)
 ###### [Bubble Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/235)
 ###### [Insertion Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/236)
+###### [Selection Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/237)
