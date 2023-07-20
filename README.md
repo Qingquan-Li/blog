@@ -294,6 +294,7 @@
 ###### [HTTP状态码](https://github.com/FatliTalk/blog/issues/89)
 ###### [macOS终端使用代理网络](https://github.com/FatliTalk/blog/issues/131)
 ###### [mtr 网络诊断工具](https://github.com/FatliTalk/blog/issues/166)
+###### [Setup WireGuard VPM](https://github.com/FatliTalk/blog/issues/239)
 
 <br>
 
