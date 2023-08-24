@@ -318,6 +318,7 @@
 ###### [Debian 安装教程](https://github.com/FatliTalk/blog/issues/158)
 ###### [在 Debian 上安装和使用 openmediavault](https://github.com/FatliTalk/blog/issues/159)
 ###### [VS Code Remote development over SSH](https://github.com/FatliTalk/blog/issues/178)
+###### [Linux System Log Size Optimization](https://github.com/FatliTalk/blog/issues/240)
 
 <br>
 
