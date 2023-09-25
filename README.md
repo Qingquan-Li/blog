@@ -16,11 +16,12 @@
 8. <a href="#Python-Web-Scraping">Python Web Scraping</a>
 9. <a href="#Java">Java</a>
 10. <a href="#cpp">C++</a>
-11. <a href="#Git">Git</a>
-12. <a href="#MySQL">MySQL</a>
-13. <a href="#Network">Network</a>
-14. <a href="#Linux">Linux</a>
-15. <a href="#Algorithms">Algorithms</a>
+11. <a href="#data-structure">Data Structure</a>
+12. <a href="#Git">Git</a>
+13. <a href="#MySQL">MySQL</a>
+14. <a href="#Network">Network</a>
+15. <a href="#Linux">Linux</a>
+16. <a href="#Algorithms">Algorithms</a>
 
 <br>
 
@@ -260,6 +261,11 @@
 ###### [C++ Constructors](https://github.com/FatliTalk/blog/issues/216)
 ###### [C++ Destructors](https://github.com/FatliTalk/blog/issues/218)
 ###### [C++ Recursion](https://github.com/FatliTalk/blog/issues/204)
+
+<br>
+
+## <a name="data-structure">Data Structure</a>
+###### [Linked Lists Basics](https://github.com/FatliTalk/blog/issues/242)
 
 <br>
 
