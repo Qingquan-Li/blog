@@ -6,136 +6,102 @@
 
 ## Contents at a Glance:
 
-1. <a href="#Others">Others</a>
-2. <a href="#Markdown">Markdown</a>
-3. <a href="#Design">Design</a>
-4. <a href="#HTMLCSS">HTML/CSS</a>
-5. <a href="#JavaScript">JavaScript</a>
-6. <a href="#Python">Python</a>
-7. <a href="#Django">Django</a>
-8. <a href="#Python-Web-Scraping">Python Web Scraping</a>
-9. <a href="#Java">Java</a>
-10. <a href="#cpp">C++</a>
-11. <a href="#Data-Structure">Data Structure</a>
-12. <a href="#Git">Git</a>
-13. <a href="#Database">Database</a>
-14. <a href="#Network">Network</a>
-15. <a href="#Linux">Linux</a>
-16. <a href="#Algorithms">Algorithms</a>
+1. <a href="#CPP">C++</a>
+2. <a href="#Data-Structure">Data Structure</a>
+3. <a href="#Algorithms">Algorithms</a>
+4. <a href="#Java">Java</a>
+5. <a href="#Python">Python</a>
+6. <a href="#Django">Django</a>
+7. <a href="#Python-Web-Scraping">Python Web Scraping</a>
+8. <a href="#HTMLCSS">HTML/CSS</a>
+9. <a href="#JavaScript">JavaScript</a>
+10. <a href="#Database">Database</a>
+11. <a href="#Network">Network</a>
+12. <a href="#Linux">Linux</a>
+13. <a href="#Git">Git</a>
+14. <a href="#Others">Others</a>
 
 <br>
 
 <br>
 
-## <a name="Others">Others</a>
+## <a name="CPP">C++</a>
 
-###### [Why GitHub Issues?](https://github.com/FatliTalk/blog/issues/1)
-###### [番茄工作法](https://github.com/FatliTalk/blog/issues/7)
-###### [博弈论](https://github.com/FatliTalk/blog/issues/14)
-###### [二进制](https://github.com/FatliTalk/blog/issues/15)
-###### [General number bases (binary, octal, decimal, hex...)](https://github.com/FatliTalk/blog/issues/232)
-###### [Signed binary numbers: Two's complement](https://github.com/FatliTalk/blog/issues/231)
-###### [Binary floating-point numbers](https://github.com/FatliTalk/blog/issues/233)
-###### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
-###### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
-###### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
-###### [Anna Quindlen 的《不曾走过，怎会懂得》](https://github.com/FatliTalk/blog/issues/53)
-###### [王小波的《一只特立独行的猪》](https://github.com/FatliTalk/blog/issues/54)
-###### [趋势](https://github.com/FatliTalk/blog/issues/55)
-###### [莫欺少年穷](https://github.com/FatliTalk/blog/issues/56)
-###### [Mac 使用「预览」来合并两张图片](https://github.com/FatliTalk/blog/issues/57)
-###### [Homebrew：macOS软件包管理工具](https://github.com/FatliTalk/blog/issues/59)
-###### [Mac - iTerm 基础配置](https://github.com/FatliTalk/blog/issues/70)
-###### [macOS 11 手动配置 Terminal (zsh)](https://github.com/FatliTalk/blog/issues/173)
-###### [Mac 终端文件目录树状(tree)显示](https://github.com/FatliTalk/blog/issues/72)
-###### [2017年终总结](https://github.com/FatliTalk/blog/issues/77)
-###### [《无问西东》台词摘录](https://github.com/FatliTalk/blog/issues/78)
-###### [《人类简史》摘录](https://github.com/FatliTalk/blog/issues/83)
-###### [LCD、OLED等显示器基础知识](https://github.com/FatliTalk/blog/issues/95)
-###### [英语音标](https://github.com/FatliTalk/blog/issues/99)
-###### [了解区块链](https://github.com/FatliTalk/blog/issues/101)
-###### [FFmpeg 音视频转码命令](https://github.com/FatliTalk/blog/issues/105)
-###### [搜索引擎-搜索技巧](https://github.com/FatliTalk/blog/issues/163)
-###### [Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/FatliTalk/blog/issues/182)
-
-<br>
-
-## <a name="Markdown">Markdown</a>
-
-###### [Markdown 是什么？](https://github.com/FatliTalk/blog/issues/3)
-###### [Markdown 语法](https://github.com/FatliTalk/blog/issues/2)
-###### [使用Markdown（Typora）绘制图表](https://github.com/FatliTalk/blog/issues/88)
-
-<br>
-
-## <a name="Design">Design</a>
-
-###### [分辨率相关：屏幕尺寸、px、pt、em，物理像素和逻辑像素，以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
-###### [《写给大家看的设计书》读书笔记](https://github.com/FatliTalk/blog/issues/107)
-###### [三月一科技 VI 设计 - 简要说明](https://github.com/FatliTalk/blog/issues/142)
+###### [The process of translating a C++ source file to an executable file](https://github.com/FatliTalk/blog/issues/217)
+###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/189)
+###### [C++: Check data type](https://github.com/FatliTalk/blog/issues/190)
+###### [C++ Formatting Output: setprecision, fixed and showpoint Manipulator](https://github.com/FatliTalk/blog/issues/188)
+###### [C++: Working with Characters and string Objects: getline(), cin.get(), cin.ignore()](https://github.com/FatliTalk/blog/issues/191)
+###### [C++ Conditional Operator (Ternary Operator)](https://github.com/FatliTalk/blog/issues/192)
+###### [C++ Sentinels](https://github.com/FatliTalk/blog/issues/193)
+###### [C++ for-loop, while-loop and do-while-loop](https://github.com/FatliTalk/blog/issues/195)
+###### [What is the difference between i++ and ++i in C++?](https://github.com/FatliTalk/blog/issues/206)
+###### [C++ Using Files for Data Storage: Output and Input](https://github.com/FatliTalk/blog/issues/198)
+###### [C++ File Operations](https://github.com/FatliTalk/blog/issues/224)
+###### [C++ Passing File Stream Objects to Functions](https://github.com/FatliTalk/blog/issues/226)
+###### [C++ File Stream Error Testing](https://github.com/FatliTalk/blog/issues/227)
+###### [C++ File Stream: Member Functions (getline, get, put) for Reading and Writing Files](https://github.com/FatliTalk/blog/issues/229)
+###### [C++ Random Numbers](https://github.com/FatliTalk/blog/issues/196)
+###### [C++ Overloading Functions](https://github.com/FatliTalk/blog/issues/203)
+###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
+###### [C++ Using Reference Variables as Function Parameters](https://github.com/FatliTalk/blog/issues/197)
+###### [C++ Arrays and the memory size of the data type](https://github.com/FatliTalk/blog/issues/199)
+###### [C++: The Range-Based for Loop (iterate through an array)](https://github.com/FatliTalk/blog/issues/200)
+###### [C++: Arrays as Function Arguments](https://github.com/FatliTalk/blog/issues/201)
+###### [C++ Two-Dimensional Arrays](https://github.com/FatliTalk/blog/issues/202)
+###### [C++ Vector](https://github.com/FatliTalk/blog/issues/222)
+###### [C++ Pointers Basic](https://github.com/FatliTalk/blog/issues/205)
+###### [C++: The Relationship between Arrays and Pointers](https://github.com/FatliTalk/blog/issues/207)
+###### [C++: Pointers as Function Parameters](https://github.com/FatliTalk/blog/issues/208)
+###### [C++ Dynamic Memory Allocation](https://github.com/FatliTalk/blog/issues/209)
+###### [C++: Returning Pointers from Functions](https://github.com/FatliTalk/blog/issues/210)
+###### [C++: C-Strings](https://github.com/FatliTalk/blog/issues/214)
+###### [C++ Structured Data](https://github.com/FatliTalk/blog/issues/213)
+###### [C++: Two Examples of Structured Data](https://github.com/FatliTalk/blog/issues/211)
+###### [C++ Separating Class Specification from Implementation](https://github.com/FatliTalk/blog/issues/212)
+###### [C++ Class with Pointer and Reference Example: GameTeam](https://github.com/FatliTalk/blog/issues/223)
+###### [C++ Class Collaborations and UML Diagram](https://github.com/FatliTalk/blog/issues/219)
+###### [C++ Class Aggregation](https://github.com/FatliTalk/blog/issues/225)
+###### [C++ Constructors](https://github.com/FatliTalk/blog/issues/216)
+###### [C++ Destructors](https://github.com/FatliTalk/blog/issues/218)
+###### [C++ Recursion](https://github.com/FatliTalk/blog/issues/204)
 
 <br>
 
-## <a name="HTMLCSS">HTML/CSS</a>
-
-###### [HTML+CSS 知识结构梳理](https://github.com/FatliTalk/blog/issues/29)
-###### [HTML_1 HTML基础](https://github.com/FatliTalk/blog/issues/17)
-###### [HTML_2 列表、表格与框架](https://github.com/FatliTalk/blog/issues/18)
-###### [HTML_3 表单](https://github.com/FatliTalk/blog/issues/19)
-###### [CSS_1 CSS浮动（float,clear）通俗讲解](https://github.com/FatliTalk/blog/issues/27)
-###### [CSS_2 CSS实例-商品列表](https://github.com/FatliTalk/blog/issues/28)
-###### [:nth-child() 选择器：实现奇偶行隔行换色](https://github.com/FatliTalk/blog/issues/43)
-###### [Flex 布局、Grid网格布局](https://github.com/FatliTalk/blog/issues/129)
+## <a name="Data-Structure">Data Structure</a>
+###### [Linked Lists Basics](https://github.com/FatliTalk/blog/issues/242)
+###### [Linked List as an ADT, Unordered Linked List, Ordered Linked List](https://github.com/FatliTalk/blog/issues/243)
+###### [Linked List Demo Program](https://github.com/FatliTalk/blog/issues/244)
 
 <br>
 
-## <a name="JavaScript">JavaScript</a>
+## <a name="Algorithms">Algorithms</a>
 
-###### [了解JavaScript](https://github.com/FatliTalk/blog/issues/39)
-###### [JavaScript基础语法](https://github.com/FatliTalk/blog/issues/90)
-###### [JavaScript函数](https://github.com/FatliTalk/blog/issues/94)
-###### [JavaScript的DOM和BOM](https://github.com/FatliTalk/blog/issues/91)
-###### [JavaScript对象](https://github.com/FatliTalk/blog/issues/93)
-###### [JavaScript表单验证](https://github.com/FatliTalk/blog/issues/41)
-###### [JavaScript表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
-###### [Javascript的this用法](https://github.com/FatliTalk/blog/issues/82)
-###### [JavaScript中的标点符号（逗号、分号）](https://github.com/FatliTalk/blog/issues/92)
-###### [macOS安装及卸载Node.js](https://github.com/FatliTalk/blog/issues/103)
-###### [npm 基础用法](https://github.com/FatliTalk/blog/issues/104)
-###### [JavaScript == vs ===](https://github.com/FatliTalk/blog/issues/145)
-###### [JavaScript 同步回调／异步回调](https://github.com/FatliTalk/blog/issues/146)
-###### [use Vue CLI to create a project](https://github.com/FatliTalk/blog/issues/174)
-###### [Ubuntu install Node.js](https://github.com/FatliTalk/blog/issues/179)
-###### [Add React to a Website](https://github.com/FatliTalk/blog/issues/187)
-###### [NVM (Node Version Manager) Commands](https://github.com/FatliTalk/blog/issues/234)
-###### [Config HTTPS for the local development environment (React.js) with mkcert](https://github.com/FatliTalk/blog/issues/238)
+###### [算法简介](https://github.com/FatliTalk/blog/issues/171)
+###### [Linear Search and Binary Search (C++)](https://github.com/FatliTalk/blog/issues/215)
+###### [Breadth-First Search (Python)](https://github.com/FatliTalk/blog/issues/185)
+###### [Greedy Algorithms (Travelling Salesperson Problem. Python)](https://github.com/FatliTalk/blog/issues/186)
+###### [Bubble Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/235)
+###### [Insertion Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/236)
+###### [Selection Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/237)
 
 <br>
 
-## <a name="Git">Git</a>
+## <a name="Java">Java</a>
 
-###### [Git_1 了解 Git（git --version）](https://github.com/FatliTalk/blog/issues/61)
-###### [Git_2 Git 配置（git config）](https://github.com/FatliTalk/blog/issues/62)
-###### [Git_3 Git 文件的三种状态及其生命周期（git status，已修改modified、已暂存staged、已提交committed）](https://github.com/FatliTalk/blog/issues/63)
-###### [Git_4 仓库初始化／克隆现有仓库（git init／clone、add、commit）](https://github.com/FatliTalk/blog/issues/64)
-###### [Git_5 记录每次更新到仓库（git add、commit）](https://github.com/FatliTalk/blog/issues/65)
-###### [Git_6 远程仓库的使用（以 GitHub 为例）（git init、remote、add、commit、push）](https://github.com/FatliTalk/blog/issues/66)
-###### [Git_7 提交历史（git log & git log --graph）](https://github.com/FatliTalk/blog/issues/67)
-###### [Git_8 撤销操作（git commit --amend、git reset HEAD \<file>）](https://github.com/FatliTalk/blog/issues/68)
-###### [Git_9 打标签（git tag）](https://github.com/FatliTalk/blog/issues/69)
-###### [Git branch management](https://github.com/FatliTalk/blog/issues/177)
-###### [GitHub for Windows](https://github.com/FatliTalk/blog/issues/10)
-###### [IntelliJ IDEA 提交代码到 GitHub](https://github.com/FatliTalk/blog/issues/11)
-###### [GitHub Pages](https://github.com/FatliTalk/blog/issues/12)
-###### [你必须收藏的Github技巧](https://github.com/FatliTalk/blog/issues/13)
-###### [Git 远程操作（以 GitHub 为例）（git checkout、remote、push、pull、fetch、merge）](https://github.com/FatliTalk/blog/issues/102)
-###### [Ubuntu搭建Git服务器](https://github.com/FatliTalk/blog/issues/112)
-###### [git部署项目代码至服务器](https://github.com/FatliTalk/blog/issues/113)
-###### [macOS更新git](https://github.com/FatliTalk/blog/issues/115)
-###### [fork - PR 操作流程（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/144)
-###### [Commit Message Format](https://github.com/FatliTalk/blog/issues/164)
-###### [Use git and GitHub to contribute to a project in a team](https://github.com/FatliTalk/blog/issues/220)
-###### [Work With Two Git/GitHub Accounts On One Computer](https://github.com/FatliTalk/blog/issues/221)
+###### [Java 基础知识点](https://github.com/FatliTalk/blog/issues/33)
+###### [Java 面向对象的概念整理](https://github.com/FatliTalk/blog/issues/5)
+###### [Java 面向对象三大特性以及抽象类和接口](https://github.com/FatliTalk/blog/issues/34)
+###### [Java高级特性_1 集合框架及泛型](https://github.com/FatliTalk/blog/issues/36)
+###### [Java集合框架_hashCode() & equals()](https://github.com/FatliTalk/blog/issues/35)
+###### [Java高级特性_5 XML](https://github.com/FatliTalk/blog/issues/6)
+###### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
+###### [JavaWeb_2 JSP实现数据传递和保存](https://github.com/FatliTalk/blog/issues/38)
+###### [macOS Java 安装和环境配置](https://github.com/FatliTalk/blog/issues/44)
+###### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
+###### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
+###### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
+###### [VS Code 创建 Maven 项目](https://github.com/FatliTalk/blog/issues/148)
 
 <br>
 
@@ -203,71 +169,39 @@
 
 <br>
 
-## <a name="Java">Java</a>
+## <a name="HTMLCSS">HTML/CSS</a>
 
-###### [Java 基础知识点](https://github.com/FatliTalk/blog/issues/33)
-###### [Java 面向对象的概念整理](https://github.com/FatliTalk/blog/issues/5)
-###### [Java 面向对象三大特性以及抽象类和接口](https://github.com/FatliTalk/blog/issues/34)
-###### [Java高级特性_1 集合框架及泛型](https://github.com/FatliTalk/blog/issues/36)
-###### [Java集合框架_hashCode() & equals()](https://github.com/FatliTalk/blog/issues/35)
-###### [Java高级特性_5 XML](https://github.com/FatliTalk/blog/issues/6)
-###### [JavaWeb_1 搭建Web环境、初识JSP](https://github.com/FatliTalk/blog/issues/32)
-###### [JavaWeb_2 JSP实现数据传递和保存](https://github.com/FatliTalk/blog/issues/38)
-###### [macOS Java 安装和环境配置](https://github.com/FatliTalk/blog/issues/44)
-###### [Oracle_11gR2安装教程](https://github.com/FatliTalk/blog/issues/30)
-###### [三层架构和 MVC 模式](https://github.com/FatliTalk/blog/issues/16)
-###### [常用 Java 代码块](https://github.com/FatliTalk/blog/issues/31)
-###### [VS Code 创建 Maven 项目](https://github.com/FatliTalk/blog/issues/148)
+###### [HTML+CSS 知识结构梳理](https://github.com/FatliTalk/blog/issues/29)
+###### [HTML_1 HTML基础](https://github.com/FatliTalk/blog/issues/17)
+###### [HTML_2 列表、表格与框架](https://github.com/FatliTalk/blog/issues/18)
+###### [HTML_3 表单](https://github.com/FatliTalk/blog/issues/19)
+###### [CSS_1 CSS浮动（float,clear）通俗讲解](https://github.com/FatliTalk/blog/issues/27)
+###### [CSS_2 CSS实例-商品列表](https://github.com/FatliTalk/blog/issues/28)
+###### [:nth-child() 选择器：实现奇偶行隔行换色](https://github.com/FatliTalk/blog/issues/43)
+###### [Flex 布局、Grid网格布局](https://github.com/FatliTalk/blog/issues/129)
 
 <br>
 
-## <a name="cpp">C++</a>
+## <a name="JavaScript">JavaScript</a>
 
-###### [The process of translating a C++ source file to an executable file](https://github.com/FatliTalk/blog/issues/217)
-###### [C++ Naming Style](https://github.com/FatliTalk/blog/issues/189)
-###### [C++: Check data type](https://github.com/FatliTalk/blog/issues/190)
-###### [C++ Formatting Output: setprecision, fixed and showpoint Manipulator](https://github.com/FatliTalk/blog/issues/188)
-###### [C++: Working with Characters and string Objects: getline(), cin.get(), cin.ignore()](https://github.com/FatliTalk/blog/issues/191)
-###### [C++ Conditional Operator (Ternary Operator)](https://github.com/FatliTalk/blog/issues/192)
-###### [C++ Sentinels](https://github.com/FatliTalk/blog/issues/193)
-###### [C++ for-loop, while-loop and do-while-loop](https://github.com/FatliTalk/blog/issues/195)
-###### [What is the difference between i++ and ++i in C++?](https://github.com/FatliTalk/blog/issues/206)
-###### [C++ Using Files for Data Storage: Output and Input](https://github.com/FatliTalk/blog/issues/198)
-###### [C++ File Operations](https://github.com/FatliTalk/blog/issues/224)
-###### [C++ Passing File Stream Objects to Functions](https://github.com/FatliTalk/blog/issues/226)
-###### [C++ File Stream Error Testing](https://github.com/FatliTalk/blog/issues/227)
-###### [C++ File Stream: Member Functions (getline, get, put) for Reading and Writing Files](https://github.com/FatliTalk/blog/issues/229)
-###### [C++ Random Numbers](https://github.com/FatliTalk/blog/issues/196)
-###### [C++ Overloading Functions](https://github.com/FatliTalk/blog/issues/203)
-###### [C++ constant reference: const&](https://github.com/FatliTalk/blog/issues/194)
-###### [C++ Using Reference Variables as Function Parameters](https://github.com/FatliTalk/blog/issues/197)
-###### [C++ Arrays and the memory size of the data type](https://github.com/FatliTalk/blog/issues/199)
-###### [C++: The Range-Based for Loop (iterate through an array)](https://github.com/FatliTalk/blog/issues/200)
-###### [C++: Arrays as Function Arguments](https://github.com/FatliTalk/blog/issues/201)
-###### [C++ Two-Dimensional Arrays](https://github.com/FatliTalk/blog/issues/202)
-###### [C++ Vector](https://github.com/FatliTalk/blog/issues/222)
-###### [C++ Pointers Basic](https://github.com/FatliTalk/blog/issues/205)
-###### [C++: The Relationship between Arrays and Pointers](https://github.com/FatliTalk/blog/issues/207)
-###### [C++: Pointers as Function Parameters](https://github.com/FatliTalk/blog/issues/208)
-###### [C++ Dynamic Memory Allocation](https://github.com/FatliTalk/blog/issues/209)
-###### [C++: Returning Pointers from Functions](https://github.com/FatliTalk/blog/issues/210)
-###### [C++: C-Strings](https://github.com/FatliTalk/blog/issues/214)
-###### [C++ Structured Data](https://github.com/FatliTalk/blog/issues/213)
-###### [C++: Two Examples of Structured Data](https://github.com/FatliTalk/blog/issues/211)
-###### [C++ Separating Class Specification from Implementation](https://github.com/FatliTalk/blog/issues/212)
-###### [C++ Class with Pointer and Reference Example: GameTeam](https://github.com/FatliTalk/blog/issues/223)
-###### [C++ Class Collaborations and UML Diagram](https://github.com/FatliTalk/blog/issues/219)
-###### [C++ Class Aggregation](https://github.com/FatliTalk/blog/issues/225)
-###### [C++ Constructors](https://github.com/FatliTalk/blog/issues/216)
-###### [C++ Destructors](https://github.com/FatliTalk/blog/issues/218)
-###### [C++ Recursion](https://github.com/FatliTalk/blog/issues/204)
-
-<br>
-
-## <a name="Data-Structure">Data Structure</a>
-###### [Linked Lists Basics](https://github.com/FatliTalk/blog/issues/242)
-###### [Linked List as an ADT, Unordered Linked List, Ordered Linked List](https://github.com/FatliTalk/blog/issues/243)
-###### [Linked List Demo Program](https://github.com/FatliTalk/blog/issues/244)
+###### [了解JavaScript](https://github.com/FatliTalk/blog/issues/39)
+###### [JavaScript基础语法](https://github.com/FatliTalk/blog/issues/90)
+###### [JavaScript函数](https://github.com/FatliTalk/blog/issues/94)
+###### [JavaScript的DOM和BOM](https://github.com/FatliTalk/blog/issues/91)
+###### [JavaScript对象](https://github.com/FatliTalk/blog/issues/93)
+###### [JavaScript表单验证](https://github.com/FatliTalk/blog/issues/41)
+###### [JavaScript表单验证之正则表达式](https://github.com/FatliTalk/blog/issues/42)
+###### [Javascript的this用法](https://github.com/FatliTalk/blog/issues/82)
+###### [JavaScript中的标点符号（逗号、分号）](https://github.com/FatliTalk/blog/issues/92)
+###### [macOS安装及卸载Node.js](https://github.com/FatliTalk/blog/issues/103)
+###### [npm 基础用法](https://github.com/FatliTalk/blog/issues/104)
+###### [JavaScript == vs ===](https://github.com/FatliTalk/blog/issues/145)
+###### [JavaScript 同步回调／异步回调](https://github.com/FatliTalk/blog/issues/146)
+###### [use Vue CLI to create a project](https://github.com/FatliTalk/blog/issues/174)
+###### [Ubuntu install Node.js](https://github.com/FatliTalk/blog/issues/179)
+###### [Add React to a Website](https://github.com/FatliTalk/blog/issues/187)
+###### [NVM (Node Version Manager) Commands](https://github.com/FatliTalk/blog/issues/234)
+###### [Config HTTPS for the local development environment (React.js) with mkcert](https://github.com/FatliTalk/blog/issues/238)
 
 <br>
 
@@ -332,12 +266,66 @@
 
 <br>
 
-## <a name="Algorithms">Algorithms</a>
+## <a name="Git">Git</a>
 
-###### [算法简介](https://github.com/FatliTalk/blog/issues/171)
-###### [Linear Search and Binary Search (C++)](https://github.com/FatliTalk/blog/issues/215)
-###### [Breadth-First Search (Python)](https://github.com/FatliTalk/blog/issues/185)
-###### [Greedy Algorithms (Travelling Salesperson Problem. Python)](https://github.com/FatliTalk/blog/issues/186)
-###### [Bubble Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/235)
-###### [Insertion Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/236)
-###### [Selection Sort Algorithm (C++)](https://github.com/FatliTalk/blog/issues/237)
+###### [Git_1 了解 Git（git --version）](https://github.com/FatliTalk/blog/issues/61)
+###### [Git_2 Git 配置（git config）](https://github.com/FatliTalk/blog/issues/62)
+###### [Git_3 Git 文件的三种状态及其生命周期（git status，已修改modified、已暂存staged、已提交committed）](https://github.com/FatliTalk/blog/issues/63)
+###### [Git_4 仓库初始化／克隆现有仓库（git init／clone、add、commit）](https://github.com/FatliTalk/blog/issues/64)
+###### [Git_5 记录每次更新到仓库（git add、commit）](https://github.com/FatliTalk/blog/issues/65)
+###### [Git_6 远程仓库的使用（以 GitHub 为例）（git init、remote、add、commit、push）](https://github.com/FatliTalk/blog/issues/66)
+###### [Git_7 提交历史（git log & git log --graph）](https://github.com/FatliTalk/blog/issues/67)
+###### [Git_8 撤销操作（git commit --amend、git reset HEAD \<file>）](https://github.com/FatliTalk/blog/issues/68)
+###### [Git_9 打标签（git tag）](https://github.com/FatliTalk/blog/issues/69)
+###### [Git branch management](https://github.com/FatliTalk/blog/issues/177)
+###### [GitHub for Windows](https://github.com/FatliTalk/blog/issues/10)
+###### [IntelliJ IDEA 提交代码到 GitHub](https://github.com/FatliTalk/blog/issues/11)
+###### [GitHub Pages](https://github.com/FatliTalk/blog/issues/12)
+###### [你必须收藏的Github技巧](https://github.com/FatliTalk/blog/issues/13)
+###### [Git 远程操作（以 GitHub 为例）（git checkout、remote、push、pull、fetch、merge）](https://github.com/FatliTalk/blog/issues/102)
+###### [Ubuntu搭建Git服务器](https://github.com/FatliTalk/blog/issues/112)
+###### [git部署项目代码至服务器](https://github.com/FatliTalk/blog/issues/113)
+###### [macOS更新git](https://github.com/FatliTalk/blog/issues/115)
+###### [fork - PR 操作流程（以 GitHub 为例）](https://github.com/FatliTalk/blog/issues/144)
+###### [Commit Message Format](https://github.com/FatliTalk/blog/issues/164)
+###### [Use git and GitHub to contribute to a project in a team](https://github.com/FatliTalk/blog/issues/220)
+###### [Work With Two Git/GitHub Accounts On One Computer](https://github.com/FatliTalk/blog/issues/221)
+
+<br>
+
+## <a name="Others">Others</a>
+
+###### [Why GitHub Issues?](https://github.com/FatliTalk/blog/issues/1)
+###### [Markdown 语法](https://github.com/FatliTalk/blog/issues/2)
+###### [Markdown 是什么？](https://github.com/FatliTalk/blog/issues/3)
+###### [使用Markdown（Typora）绘制图表](https://github.com/FatliTalk/blog/issues/88)
+###### [分辨率相关：屏幕尺寸、px、pt、em，物理像素和逻辑像素，以及 DPI、PPI](https://github.com/FatliTalk/blog/issues/58)
+###### [《写给大家看的设计书》读书笔记](https://github.com/FatliTalk/blog/issues/107)
+###### [三月一科技 VI 设计 - 简要说明](https://github.com/FatliTalk/blog/issues/142)
+###### [番茄工作法](https://github.com/FatliTalk/blog/issues/7)
+###### [博弈论](https://github.com/FatliTalk/blog/issues/14)
+###### [二进制](https://github.com/FatliTalk/blog/issues/15)
+###### [General number bases (binary, octal, decimal, hex...)](https://github.com/FatliTalk/blog/issues/232)
+###### [Signed binary numbers: Two's complement](https://github.com/FatliTalk/blog/issues/231)
+###### [Binary floating-point numbers](https://github.com/FatliTalk/blog/issues/233)
+###### [字符编码笔记：ASCII，Unicode和UTF-8](https://github.com/FatliTalk/blog/issues/45)
+###### [IaaS，PaaS及SaaS三种云服务的比较及对应的提供商](https://github.com/FatliTalk/blog/issues/50)
+###### [Make big dreams, take small steps](https://github.com/FatliTalk/blog/issues/52)
+###### [Anna Quindlen 的《不曾走过，怎会懂得》](https://github.com/FatliTalk/blog/issues/53)
+###### [王小波的《一只特立独行的猪》](https://github.com/FatliTalk/blog/issues/54)
+###### [趋势](https://github.com/FatliTalk/blog/issues/55)
+###### [莫欺少年穷](https://github.com/FatliTalk/blog/issues/56)
+###### [Mac 使用「预览」来合并两张图片](https://github.com/FatliTalk/blog/issues/57)
+###### [Homebrew：macOS软件包管理工具](https://github.com/FatliTalk/blog/issues/59)
+###### [Mac - iTerm 基础配置](https://github.com/FatliTalk/blog/issues/70)
+###### [macOS 11 手动配置 Terminal (zsh)](https://github.com/FatliTalk/blog/issues/173)
+###### [Mac 终端文件目录树状(tree)显示](https://github.com/FatliTalk/blog/issues/72)
+###### [2017年终总结](https://github.com/FatliTalk/blog/issues/77)
+###### [《无问西东》台词摘录](https://github.com/FatliTalk/blog/issues/78)
+###### [《人类简史》摘录](https://github.com/FatliTalk/blog/issues/83)
+###### [LCD、OLED等显示器基础知识](https://github.com/FatliTalk/blog/issues/95)
+###### [英语音标](https://github.com/FatliTalk/blog/issues/99)
+###### [了解区块链](https://github.com/FatliTalk/blog/issues/101)
+###### [FFmpeg 音视频转码命令](https://github.com/FatliTalk/blog/issues/105)
+###### [搜索引擎-搜索技巧](https://github.com/FatliTalk/blog/issues/163)
+###### [Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/FatliTalk/blog/issues/182)
