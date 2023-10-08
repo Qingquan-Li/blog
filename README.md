@@ -330,3 +330,4 @@
 ###### [FFmpeg 音视频转码命令](https://github.com/FatliTalk/blog/issues/105)
 ###### [搜索引擎-搜索技巧](https://github.com/FatliTalk/blog/issues/163)
 ###### [Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/FatliTalk/blog/issues/182)
+###### [Excerpt from Clean Code: A Handbook of Agile Software Craftsmanship](https://github.com/FatliTalk/blog/issues/247)
