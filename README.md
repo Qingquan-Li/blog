@@ -64,7 +64,7 @@
 ###### [C++ Constructors](https://github.com/Qingquan-Li/blog/issues/216)
 ###### [C++ Destructors](https://github.com/Qingquan-Li/blog/issues/218)
 ###### [C++ Instance and Static Members](https://github.com/Qingquan-Li/blog/issues/248)
-###### [Friends of Classes](https://github.com/Qingquan-Li/blog/issues/249)
+###### [C++ Friends of Classes](https://github.com/Qingquan-Li/blog/issues/249)
 ###### [C++ Class Aggregation](https://github.com/Qingquan-Li/blog/issues/225)
 ###### [C++ Recursion](https://github.com/Qingquan-Li/blog/issues/204)
 
