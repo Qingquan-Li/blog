@@ -90,6 +90,7 @@
 ###### [Bubble Sort Algorithm (C++)](https://github.com/Qingquan-Li/blog/issues/235)
 ###### [Insertion Sort Algorithm (C++)](https://github.com/Qingquan-Li/blog/issues/236)
 ###### [Selection Sort Algorithm (C++)](https://github.com/Qingquan-Li/blog/issues/237)
+###### [Merge Sort Demo (C++)](https://github.com/Qingquan-Li/blog/issues/253)
 
 <br>
 
