@@ -232,6 +232,7 @@
 ###### [使用 cron 定时备份 MySQL 数据库（使用 Ubuntu 系统）](https://github.com/Qingquan-Li/blog/issues/153)
 ###### [Excel to MySQL 常用操作](https://github.com/Qingquan-Li/blog/issues/155)
 ###### [Database Relational Model, Relational Algebra, Relational Calculus](https://github.com/Qingquan-Li/blog/issues/245)
+###### [Database Normalization – Normal Forms 1NF 2NF 3NF](https://github.com/Qingquan-Li/blog/issues/254)
 
 <br>
 
