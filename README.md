@@ -78,6 +78,7 @@
 ###### [Linked List as an ADT, Unordered Linked List, Ordered Linked List](https://github.com/Qingquan-Li/blog/issues/243)
 ###### [Linked List Demo Program](https://github.com/Qingquan-Li/blog/issues/244)
 ###### [Doubly Linked List Demo Program](https://github.com/Qingquan-Li/blog/issues/246)
+###### [Implementation of Stacks as Arrays](https://github.com/Qingquan-Li/blog/issues/255)
 
 <br>
 
