@@ -79,6 +79,7 @@
 ###### [Linked List Demo Program](https://github.com/Qingquan-Li/blog/issues/244)
 ###### [Doubly Linked List Demo Program](https://github.com/Qingquan-Li/blog/issues/246)
 ###### [Implementation of Stacks as Arrays](https://github.com/Qingquan-Li/blog/issues/255)
+###### [Linked Implementation of Stacks](https://github.com/Qingquan-Li/blog/issues/256)
 
 <br>
 
