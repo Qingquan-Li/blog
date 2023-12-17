@@ -81,6 +81,7 @@
 ###### [Implementation of Stacks as Arrays](https://github.com/Qingquan-Li/blog/issues/255)
 ###### [Linked Implementation of Stacks](https://github.com/Qingquan-Li/blog/issues/256)
 ###### [Spanning Tree](https://github.com/Qingquan-Li/blog/issues/257)
+###### [Topological Order](https://github.com/Qingquan-Li/blog/issues/258)
 
 <br>
 
