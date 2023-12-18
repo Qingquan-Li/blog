@@ -80,6 +80,7 @@
 ###### [Doubly Linked List Demo Program](https://github.com/Qingquan-Li/blog/issues/246)
 ###### [Implementation of Stacks as Arrays](https://github.com/Qingquan-Li/blog/issues/255)
 ###### [Linked Implementation of Stacks](https://github.com/Qingquan-Li/blog/issues/256)
+###### [Depth-First Traversal and Breadth-First Traversal](https://github.com/Qingquan-Li/blog/issues/259)
 ###### [Spanning Tree](https://github.com/Qingquan-Li/blog/issues/257)
 ###### [Topological Order](https://github.com/Qingquan-Li/blog/issues/258)
 
