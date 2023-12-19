@@ -82,6 +82,7 @@
 ###### [Linked Implementation of Stacks](https://github.com/Qingquan-Li/blog/issues/256)
 ###### [Introduction to Binary Trees](https://github.com/Qingquan-Li/blog/issues/262)
 ###### [Binary Tree Traversal: In-order, Pre-order, and Post-order Traversal](https://github.com/Qingquan-Li/blog/issues/263)
+###### [Binary Search Trees](https://github.com/Qingquan-Li/blog/issues/264)
 ###### [Introduction to Graphs](https://github.com/Qingquan-Li/blog/issues/261)
 ###### [Depth-First Traversal and Breadth-First Traversal](https://github.com/Qingquan-Li/blog/issues/259)
 ###### [Dijkstra's Shortest Path Algorithm](https://github.com/Qingquan-Li/blog/issues/260)
