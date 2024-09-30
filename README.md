@@ -103,6 +103,7 @@
 ###### [Selection Sort Algorithm (C++)](https://github.com/Qingquan-Li/blog/issues/237)
 ###### [Merge Sort Demo (C++)](https://github.com/Qingquan-Li/blog/issues/253)
 ###### [Merge Sort with Python](https://github.com/Qingquan-Li/blog/issues/273)
+##### [Big-O, Little-o, Big-Omega, Little-Omega, and Theta notations](https://github.com/Qingquan-Li/blog/issues/274)
 
 <br>
 
