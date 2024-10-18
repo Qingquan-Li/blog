@@ -158,6 +158,7 @@
 ###### [使用UUID库生成唯一ID](https://github.com/Qingquan-Li/blog/issues/140)
 ###### [Python 定时任务框架 APScheduler](https://github.com/Qingquan-Li/blog/issues/149)
 ###### [一行Python命令搭建HTTP服务](https://github.com/Qingquan-Li/blog/issues/170)
+###### [Python Bitwise Operators](https://github.com/Qingquan-Li/blog/issues/276)
 
 <br>
 
