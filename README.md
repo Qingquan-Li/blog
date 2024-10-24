@@ -237,6 +237,7 @@
 ###### [MySQL_6 创建和使用索引](https://github.com/Qingquan-Li/blog/issues/25)
 ###### [MySQL_7 MySQL数据库备份与恢复](https://github.com/Qingquan-Li/blog/issues/26)
 ###### [常用 SQL 语句（ MySQL ）](https://github.com/Qingquan-Li/blog/issues/37)
+###### [Common SQL Statements in SQLite](https://github.com/Qingquan-Li/blog/issues/277)
 ###### [漫画数据库-摘录：表格的规范化（使用第三范式）](https://github.com/Qingquan-Li/blog/issues/167)
 ###### [漫画数据库-摘录：SQL的基本操作](https://github.com/Qingquan-Li/blog/issues/168)
 ###### [macOS安装／卸载MySQL 8.0.16](https://github.com/Qingquan-Li/blog/issues/121)
