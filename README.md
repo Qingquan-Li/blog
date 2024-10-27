@@ -368,3 +368,4 @@
 ###### [Excerpt from Clean Code: A Handbook of Agile Software Craftsmanship](https://github.com/Qingquan-Li/blog/issues/247)
 ###### [Agile Fundamentals](https://github.com/Qingquan-Li/blog/issues/268)
 ###### [Design Thinking - Fundamentals](https://github.com/Qingquan-Li/blog/issues/269)
+###### [Haskell Syntax](https://github.com/Qingquan-Li/blog/issues/278)
