@@ -103,10 +103,11 @@
 ###### [Selection Sort (C++)](https://github.com/Qingquan-Li/blog/issues/237)
 ###### [Insertion Sort](https://github.com/Qingquan-Li/blog/issues/236)
 ###### [Merge Sort (C++)](https://github.com/Qingquan-Li/blog/issues/253)
+###### [Big-O, Little-o, Big-Omega, Little-Omega, and Theta notations](https://github.com/Qingquan-Li/blog/issues/274)
 ###### [Merge Sort (Python)](https://github.com/Qingquan-Li/blog/issues/273)
-##### [Big-O, Little-o, Big-Omega, Little-Omega, and Theta notations](https://github.com/Qingquan-Li/blog/issues/274)
-##### [Heap Sort (Python)](https://github.com/Qingquan-Li/blog/issues/279)
-##### [Comparison of Sorting Algorithms](https://github.com/Qingquan-Li/blog/issues/280)
+###### [Heap Sort (Python)](https://github.com/Qingquan-Li/blog/issues/279)
+###### [Quick Sort (Python)](https://github.com/Qingquan-Li/blog/issues/281)
+###### [Comparison of Sorting Algorithms](https://github.com/Qingquan-Li/blog/issues/280)
 
 <br>
 
