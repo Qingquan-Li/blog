@@ -294,6 +294,7 @@
 ###### [VS Code Remote development over SSH](https://github.com/Qingquan-Li/blog/issues/178)
 ###### [Linux System Log Size Optimization](https://github.com/Qingquan-Li/blog/issues/240)
 ###### [Commonly Used Docker Commands](https://github.com/Qingquan-Li/blog/issues/241)
+###### [Pattern Matching Utilities, Shell, and Shell Scripting](https://github.com/Qingquan-Li/blog/issues/282)
 
 <br>
 
