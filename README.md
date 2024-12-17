@@ -107,7 +107,7 @@
 ###### [Merge Sort (Python)](https://github.com/Qingquan-Li/blog/issues/273)
 ###### [Heap Sort (Python)](https://github.com/Qingquan-Li/blog/issues/279)
 ###### [Quick Sort (Python)](https://github.com/Qingquan-Li/blog/issues/281)
-###### [Comparison of Sorting Algorithms](https://github.com/Qingquan-Li/blog/issues/280)
+###### [Comparison Sorting Algorithms](https://github.com/Qingquan-Li/blog/issues/280)
 
 <br>
 
